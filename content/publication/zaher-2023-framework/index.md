@@ -11,4 +11,8 @@ publishDate: '2024-05-28T20:02:17.361104Z'
 publication_types:
 - paper-conference
 publication: '*2023 Intelligent Methods, Systems, and Applications (IMSA)*'
+
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/abstract/document/10217392/
+
 ---

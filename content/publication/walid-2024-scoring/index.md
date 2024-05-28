@@ -11,4 +11,7 @@ publishDate: '2024-05-28T20:02:17.355072Z'
 publication_types:
 - paper-conference
 publication: '*2024 6th International Conference on Computing and Informatics (ICCI)*'
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/abstract/document/10485076/
+
 ---
