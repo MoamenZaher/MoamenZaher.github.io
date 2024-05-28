@@ -123,7 +123,7 @@ skills:
         percent: 70
       - name: Flutter
         description: 'building cross-platform applications, with less than 1 year of experience.'
-        icon: devicon-flutter-plain
+        icon: code-bracket
         percent: 50
       # - name: Data Science
       #   description: ''
