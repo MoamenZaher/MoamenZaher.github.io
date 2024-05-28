@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Teaching Assistant
+role: Teaching/Research Assistant 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: October University for Modern Sciences and Arts (MSA)
-    url: https://openai.com/
+    url: https://msa.edu.eg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -61,51 +61,52 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. Software Engineering
+    institution: Faculty of Computers and Artificial Intelligence, Helwan University - Egypt
+    date_start: 2014-09-15
+    date_end: 2018-06-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.2/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+     
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Teaching Assistant
+    company_name: October University for Modern Sciences and Arts (MSA)
+    company_url: 'https://msa.edu.eg/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-03-02
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Instructed a diverse range of Software Engineering courses with a specialization in web development, Service-Oriented Architecture (SOA), Component-Based Development, Object-Oriented Software Engineering (OOSE), System Analysis, Human-Computer Interaction (HCI), Machine Learning, and Mobile Programming.
+      - Led the coordination of significant events, including the first and second IEEE IMSA Conference in 2023 and 2024, the debut MSA Hackathon in 2023, and Faculty Day in 2022,2023, and 2024. Guided and supported incoming students through the pivotal first year of their university journey by facilitating Family Leader Orientation Sessions in 2021.
+      - Co-supervise graduation projects.
+      - Control & Exam Unit Member
+      - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
+      - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects
+      - Played a pivotal role as a Center of Excellence Member, actively collaborating on government projects with a clear goal of enhancing excellence in software engineering, in alignment with our commitment to Sustainable Development Goals (SDGs).
+      - Engaged in multiple collaborative projects across different academic disciplines, facilitating teamwork among faculties such as Arts, Physical Therapy, and Dentistry.
+- position: Senior Software Engineer
+    company_name: iStudy
+    # company_url: ''
+    # company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2023-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Backend Developer using C#
+      - AI engineer using Python
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,9 +114,17 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'building AI solutions, with 4 years of experience.'
+        percent: 95
         icon: code-bracket
+      - name: NodeJS
+        desctiption: 'building scalable software solutions, with 2 years of experience.'
+        icon: code-bracket
+        percent: 70
+      - name: Flutter
+        description: 'building cross-platform applications, with less than 1 year of experience.'
+        icon: devicon-flutter-plain
+        percent: 50
       - name: Data Science
         description: ''
         percent: 100
@@ -142,12 +151,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 95
+  - name: Italian
+    percent: 30
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
