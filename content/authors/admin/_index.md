@@ -265,7 +265,7 @@ awards:
   - title: AWS Educate Introduction to Cloud 101
     url: https://www.credly.com/badges/3ae19ebb-319f-4406-b58b-1d1ad3dcc975/linked_in_profile
     date: '2024-02-20'
-    awarder: Amazon Web Services (AWS)
+    awarder: Amazon Web Services
   - title: Microsoft Certified: Azure AI Fundamentals
     url: https://www.credly.com/badges/9b6b6c1e-1303-4b00-9811-eb26fc07fb0e?source=linked_in_profile
     date: '2021-08-20'
