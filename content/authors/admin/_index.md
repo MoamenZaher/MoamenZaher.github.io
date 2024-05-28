@@ -270,7 +270,6 @@ awards:
     url: https://www.credly.com/badges/9b6b6c1e-1303-4b00-9811-eb26fc07fb0e?source=linked_in_profile
     date: '2021-08-20'
     awarder: Microsoft
-    icon: bootstrap microsoft 
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
