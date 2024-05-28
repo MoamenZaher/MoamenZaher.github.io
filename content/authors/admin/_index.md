@@ -83,7 +83,7 @@ education:
 work:
   - position: Teaching Assistant
     company_name: October University for Modern Sciences and Arts (MSA)
-    company_url: 'https://msa.edu.eg/'
+    company_url: https://msa.edu.eg/
     company_logo: ''
     date_start: 2020-03-02
     date_end: ''
@@ -114,15 +114,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: 'building AI solutions, with 4 years of experience.'
+        description: building AI solutions, with 4 years of experience.
         percent: 95
         icon: code-bracket
       - name: NodeJS
-        desctiption: 'building scalable software solutions, with 2 years of experience.'
+        desctiption: building scalable software solutions, with 2 years of experience.
         icon: code-bracket
         percent: 70
       - name: Flutter
-        description: 'building cross-platform applications, with less than 1 year of experience.'
+        description: building cross-platform applications, with less than 1 year of experience.
         icon: code-bracket
         percent: 50
       # - name: Data Science
