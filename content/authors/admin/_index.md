@@ -94,8 +94,7 @@ work:
       - Co-supervise graduation projects.
       - Control & Exam Unit Member
       - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
-      - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects
-      - Played a pivotal role as a Center of Excellence Member, actively collaborating on government projects with a clear goal of enhancing excellence in software engineering, in alignment with our commitment to Sustainable Development Goals (SDGs).
+      - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects.
       - Engaged in multiple collaborative projects across different academic disciplines, facilitating teamwork among faculties such as Arts, Physical Therapy, and Dentistry.
 - position: Senior Software Engineer
     company_name: iStudy
