@@ -92,7 +92,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- position: Senior Software Engineer
+  - position: Senior Software Engineer
     company_name: iStudy
     # company_url: ''
     # company_logo: ''
