@@ -292,5 +292,5 @@ awards:
 
 ## About Me
 
-Moamen is a masters students of software engineering at HCI Lab, Helwan University. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous of graduation projects which led to several conference publications.
+Moamen is a masters students of software engineering at HCI Lab, Helwan University. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
 Beside +4 years of academic experience, Moamen has +3 years of industry expierence working as a software engineer.
