@@ -222,31 +222,74 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Convolutional Neural Networks
+    url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
+    date: '2024-04-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      This course is part of the Deep Learning Specialization. The course covers the below topics:
+      - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
+      Object detection and segmentation.
+      - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
+      - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+  - title: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
+    url: https://www.coursera.org/account/accomplishments/records/RABAYMGRVEG8
+    date: '2024-04-20'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      This course is considered the second level in a set of 5 courses for the DL Specialization track. This course dives into the fundamentals of hyper-parameter optimization:
+      - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
+      -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
+      - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/account/accomplishments/records/U9NPGXT47S8E
+    date: '2024-05-15'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      This course dives into the fundamentals of neural networks and deep learning. The course allowed me to:
+      - Utilize Numpy to interact with vector operations.
+      - Build, train, and use fully connected deep neural networks from scratch efficiently.
+      - Identify important parameters within a neural network's architecture.
+      - Apply deep learning to solve real-world problems.
+      This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
+  - title: Structuring Machine Learning Projects
+    url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
+    date: '2024-05-17'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
+  - title: AWS Educate Introduction to Cloud 101
+    url: https://www.credly.com/badges/3ae19ebb-319f-4406-b58b-1d1ad3dcc975/linked_in_profile
+    date: '2024-02-20'
+    awarder: Amazon Web Services (AWS)
+    icon: amazon
+  - title: Microsoft Certified: Azure AI Fundamentals
+    url: https://www.credly.com/badges/9b6b6c1e-1303-4b00-9811-eb26fc07fb0e?source=linked_in_profile
+    date: '2021-08-20'
+    awarder: Microsoft
+    icon: microsoft 
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
+  #     Learned:
+  #     - Synthesize your own blockchain solutions
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
