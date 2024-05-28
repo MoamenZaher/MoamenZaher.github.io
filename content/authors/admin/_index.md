@@ -3,7 +3,7 @@
 title: Eng.
 
 # Name pronunciation (optional)
-name_pronunciation: Moamen Ibrahem Zaher
+name_pronunciation: Moamen Zaher
 
 # Full name (for SEO)
 first_name: Moamen
@@ -122,7 +122,7 @@ skills:
         percent: 70
       - name: Flutter
         description: building cross-platform applications, with less than 1 year of experience.
-        icon: code-bracket
+        icon: devicon-flutter-plain
         percent: 50
       # - name: Data Science
       #   description: ''
@@ -193,4 +193,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Moamen is a masters students of software engineering at HCI Lab, Helwan University. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous of graduation projects which led to several conference publications.
+Beside +4 years of academic experience, Moamen has +3 years of industry expierence working as a software engineer.
