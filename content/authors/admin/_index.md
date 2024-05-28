@@ -88,10 +88,10 @@ work:
     date_start: 2020-03-02
     date_end: ''
     summary: |2-
-       Responsibilities include:
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - position: Senior Software Engineer
     company_name: iStudy
     # company_url: ''
