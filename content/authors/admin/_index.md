@@ -120,10 +120,29 @@ skills:
         description: building scalable software solutions, with 2 years of experience.
         icon: code-bracket
         percent: 70
+      - name: PHP
+        icon: code-bracket
+        percent: 60
       - name: Flutter
         description: building cross-platform applications, with less than 1 year of experience.
         icon: code-bracket
         percent: 50
+  - name: Technical Skills
+    items:
+      - name: Object-Oriented Programming
+        description: ''
+        percent: 95
+        icon: circle-stack
+      - name: Data Structures
+        description: ''
+        percent: 75
+        icon: circle-stack
+      - name: Databases
+        description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
+        percent: 70
+        icon: circle-stack
+
+
   - name: Python Frameworks and Libraries
     items:
       - name: Numpy and Pandas
@@ -166,26 +185,27 @@ skills:
         description: 'Familiarity, but not extensively experienced. Utilized for AR applications.'
         percent: 20
         icon: puzzle-piece
-      - name: SQL
-        description: ''
-        percent: 50
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Football
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Gym
+        description: ''
+        percent: 90
+        icon: dumbble
+      - name: Run
         description: ''
         percent: 80
-        icon: camera
+        icon: person-simple-run
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book
 
 languages:
   - name: Arabic
