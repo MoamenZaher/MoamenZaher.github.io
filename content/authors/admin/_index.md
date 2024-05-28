@@ -89,9 +89,13 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Instructed a diverse range of Software Engineering courses with a specialization in web development, Service-Oriented Architecture (SOA), Component-Based Development, Object-Oriented Software Engineering (OOSE), System Analysis, Human-Computer Interaction (HCI), Machine Learning, and Mobile Programming.
+      - Led the coordination of significant events, including the first and second IEEE IMSA Conference in 2023 and 2024, the debut MSA Hackathon in 2023, and Faculty Day in 2022,2023, and 2024. Guided and supported incoming students through the pivotal first year of their university journey by facilitating Family Leader Orientation Sessions in 2021.
+      - Co-supervise graduation projects.
+      - Control & Exam Unit Member.
+      - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
+      - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects.
+      - Engaged in multiple collaborative projects across different academic disciplines, facilitating teamwork among faculties such as Arts, Physical Therapy, and Dentistry.
   - position: Senior Software Engineer
     company_name: iStudy
     # company_url: ''
