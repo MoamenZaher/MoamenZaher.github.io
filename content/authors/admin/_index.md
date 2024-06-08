@@ -221,7 +221,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+courses:
   - title: Convolutional Neural Networks
     url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
     date: '2024-04-25'
