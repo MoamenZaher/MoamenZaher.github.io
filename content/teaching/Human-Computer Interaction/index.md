@@ -1,39 +1,38 @@
 ---
-title: Object Oriented Software Enigeering
-summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
-date: 2023-10-24
+title: Human-Computer Interaction
+summary: Hand-on exercises on real-world projects of user-centered application!
+date: 2024-10-24
 type: docs
 math: false
 tags:
-  - OOP
-  - Software Enigneering
+  - HCI
+  - Computer Vision
+  - Object Detection
+  - Pose Detection and HAR
+  - Unity
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-In this course, students will gain a comprehensive understanding of the principles and practices of object-oriented software engineering. The course content is designed to cover the first three phases of Software Development Life Cycle (SDLC), providing a solid foundation for aspiring software engineers.
+This course explores the cutting-edge techniques and technologies used to enhance the interaction between humans and computers. Students will gain hands-on experience with various tools and methods essential for developing intuitive and effective user interfaces and systems.
+
 
 **Course Outline**:
-- Software Development Life Cycle (SDLC)
-- Requirement Analysis and Software Requirements Specification (SRS):
-    - Techniques for gathering and analyzing requirements
-    - Writing effective SRS documents
+- Pose Detection using Mediapipe
+- Classifying Trajectories using Dynamic Time Warping (DTW)
+- Marker Object Detection using ArUco and TUIO
+- Markerless Object Detection using YOLO
+- Face Detection:
+    - Facial Landmarks
+    - Face Recognition
+    - Gaze Tracking
+- Generating Heatmaps
+- Introduction to Unity
+- Introduction to Augmented Reality (AR)
+- Sockets and Threads for communication
 
-- Unified Modeling Language (UML)
-    - Class Diagrams: Representing the static structure of the system
-    - Use Case Diagrams: Capturing functional requirements
-    - Activity Diagrams: Modeling workflows and processes
-    - Sequence Diagrams: Illustrating object interactions over time
-- Implementation:
-    - Principles of encapsulation
-    - Managing class relations
-    - Adhering to SOLID concepts for robust software design
-- Design Patterns:
-    - Creational Patterns: Techniques for object creation
-    - Structural Patterns: Simplifying relationships between entities
-    - Behavioral Patterns: Managing complex control flows and algorithms
+Through practical exercises, projects, and real-world examples, students will learn to design and implement interactive systems that enhance user experience. This course prepares students to tackle the challenges of modern HCI and equips them with the skills needed for developing innovative solutions in the field.
 
-Through a combination of labs, hands-on exercises, and real-world case studies, students will learn to apply these concepts to develop well-structured and maintainable software systems. This course equips students with the skills needed to excel in the field of software engineering and prepares them for tackling complex software development projects.
 
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest. -->
