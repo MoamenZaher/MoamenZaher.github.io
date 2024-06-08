@@ -35,9 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on leveraging Human-Computer Interaction (HCI) techniques in medical healthcare to improve patient outcomes and enhance clinical processes. I have extensive experience in machine learning, deep learning, transfer learning, and attention models, which I apply to develop innovative solutions in the healthcare domain. My expertise also includes fusion techniques, time-series data analysis, signal processing, and computer vision, allowing me to tackle complex challenges in real-time human activity recognition and physical rehabilitation. By integrating advanced computational methods with HCI principles, I aim to create user-centered applications that support medical professionals and patients alike.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
     design:
