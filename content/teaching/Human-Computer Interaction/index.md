@@ -1,7 +1,7 @@
 ---
 title: Human-Computer Interaction
 summary: Hand-on exercises on real-world projects of user-centered application!
-date: 2023-10-24
+date: 2024-06-24
 type: docs
 math: false
 tags:
