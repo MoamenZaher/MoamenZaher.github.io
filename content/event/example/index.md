@@ -1,7 +1,7 @@
 ---
 title: Master's Defense
 
-event: Hugo Blox Builder Conference
+event: Master's Defense
 event_url: https://example.org
 
 location: Helwan University - Faculty of Computers and Artificial Intelligence (FCAI) 
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+# url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,6 +61,16 @@ slides: ""
 projects:
   - example
 ---
+**Under Supervision of** :
+- Assoc. Prof. Ayman Ezzat
+- Dr. Amr Ghoniem
+- Dr. Laila Abdelhamid
+
+**Jury Members** :
+- Assoc. Prof. Ayman Ezzat (Supervisor and Judge)
+- Prof. Doaa El Zonfoly (Internal Judge)
+- Prof. Ammar Mohamed (External Judge)
+
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
