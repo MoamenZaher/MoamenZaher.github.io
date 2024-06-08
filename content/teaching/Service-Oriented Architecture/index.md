@@ -1,12 +1,13 @@
 ---
 title: Service-Oriented Architecture (SOA) 
 summary: Hands-on expirence on developing services using MERN.
-date: 2022-10-23
+date: 2024-05-23
 type: docs
 math: false
 tags:
-  - OOP
-  - Software Enigneering
+  - NodeJS
+  - MERN
+  - Postman
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
