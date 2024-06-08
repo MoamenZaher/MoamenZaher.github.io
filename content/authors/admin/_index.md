@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Eng.
+title: Eng. Moamen Zaher
 
 # Name pronunciation (optional)
-name_pronunciation: Moamen Zaher
+# name_pronunciation: Moamen Zaher
 
 # Full name (for SEO)
 first_name: Moamen
