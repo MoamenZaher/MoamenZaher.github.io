@@ -1,5 +1,5 @@
 ---
-title: Object Oriented Software Enigeering
+title: Flutter
 summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
 date: 2023-10-24
 type: docs
