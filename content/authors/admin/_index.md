@@ -262,12 +262,6 @@ awards:
     icon: coursera
     summary: |
       This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
-
-awards:
-  - title: MSA
-    date: '2024-07-01'
-    awarder: MSA
-
   # - title: AWS Educate Introduction to Cloud 101
   #   url: https://www.credly.com/badges/3ae19ebb-319f-4406-b58b-1d1ad3dcc975/linked_in_profile
   #   date: '2024-02-20'
