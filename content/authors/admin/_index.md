@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eng. Moamen Zaher
+title: Moamen Zaher
 
 # Name pronunciation (optional)
 # name_pronunciation: Moamen Zaher
