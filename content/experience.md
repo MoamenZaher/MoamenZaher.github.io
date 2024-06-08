@@ -24,6 +24,8 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+      columns: 1
+
   - block: resume-awards
     content:
       title: Courses
