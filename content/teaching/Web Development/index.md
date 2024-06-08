@@ -1,7 +1,7 @@
 ---
 title: Web Development
 summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
-date: 2023-10-24
+date: 2024-01-24
 type: docs
 math: false
 tags:
