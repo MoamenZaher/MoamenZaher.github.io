@@ -1,7 +1,7 @@
 ---
-title: Object Oriented Software Enigeering
-summary: Hands-on expirence !
-date: 2023-10-24
+title: Service-Oriented Architecture (SOA) 
+summary: Hands-on expirence on developing services using MERN.
+date: 2022-10-23
 type: docs
 math: false
 tags:
@@ -15,26 +15,28 @@ This course delves into the principles and practices of Service-Oriented Archite
 
 
 **Course Outline**:
-- Software Development Life Cycle (SDLC)
-- Requirement Analysis and Software Requirements Specification (SRS):
-    - Techniques for gathering and analyzing requirements
-    - Writing effective SRS documents
+- Developing Basic Services and APIs:
+    - Introduction to NodeJS and Express
+    - Creating and managing RESTful APIs
+    - Connecting to MongoDB for data storage
+- Creating a React Client:
+    - Basics of React for building user interfaces
+    - Managing State
+    - Connecting React applications to backend services
 
-- Unified Modeling Language (UML)
-    - Class Diagrams: Representing the static structure of the system
-    - Use Case Diagrams: Capturing functional requirements
-    - Activity Diagrams: Modeling workflows and processes
-    - Sequence Diagrams: Illustrating object interactions over time
-- Implementation:
-    - Principles of encapsulation
-    - Managing class relations
-    - Adhering to SOLID concepts for robust software design
-- Design Patterns:
-    - Creational Patterns: Techniques for object creation
-    - Structural Patterns: Simplifying relationships between entities
-    - Behavioral Patterns: Managing complex control flows and algorithms
+- Introduction to Microservices
+- Using NestJS and Fastify:
+    - Introduction to NestJS for building scalable server-side applications
+    - Utilizing Fastify for fast and low-overhead web services-    
+- API Testing with Postman
+- Model, Repository, Service, and Controller Architecture
+- Introduction to Containerization:
+    - Virtualization Vs. Containerization
+    - Basics of containerization with Docker
+    
+Through practical exercises and projects, students will gain a thorough understanding of developing and managing service-oriented architectures. This course equips students with the skills needed to design, build, and maintain robust and scalable applications using the latest technologies and best practices in the industry.
 
-Through a combination of labs, hands-on exercises, and real-world case studies, students will learn to apply these concepts to develop well-structured and maintainable software systems. This course equips students with the skills needed to excel in the field of software engineering and prepares them for tackling complex software development projects.
+
 
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest. -->
