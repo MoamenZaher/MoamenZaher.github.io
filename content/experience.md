@@ -28,6 +28,11 @@ sections:
     content:
       title: Courses
       username: admin
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+
   - block: resume-languages
     content:
       title: Languages
