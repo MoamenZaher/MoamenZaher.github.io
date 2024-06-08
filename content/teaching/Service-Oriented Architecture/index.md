@@ -5,6 +5,7 @@ date: 2024-05-23
 type: docs
 math: false
 tags:
+  - Web
   - NodeJS
   - MERN
   - Postman
