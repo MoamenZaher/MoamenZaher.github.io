@@ -1,6 +1,6 @@
 ---
 title: Object Oriented Software Enigeering
-summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
+summary: Hands-on expirence !
 date: 2023-10-24
 type: docs
 math: false
@@ -11,7 +11,8 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-In this course, students will gain a comprehensive understanding of the principles and practices of object-oriented software engineering. The course content is designed to cover the first three phases of Software Development Life Cycle (SDLC), providing a solid foundation for aspiring software engineers.
+This course delves into the principles and practices of Service-Oriented Architecture (SOA) using the MERN (MongoDB, Express, React, NodeJS) stack. Students will learn to develop scalable and efficient services and applications through hands-on projects and real-world examples.
+
 
 **Course Outline**:
 - Software Development Life Cycle (SDLC)
