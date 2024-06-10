@@ -26,14 +26,7 @@ sections:
   
   - block: resume-skills
     content:
-      title: Programming Languages
-      username: admin
-    design:
-      show_skill_percentage: false
-      columns: 1
-  - block: resume-skills
-    content:
-      title: Frameworks
+      title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
