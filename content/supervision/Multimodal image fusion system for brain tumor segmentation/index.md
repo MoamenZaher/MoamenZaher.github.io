@@ -8,10 +8,12 @@ tags:
   - Bachelor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
-  placement: 1
-  caption: 'Photo by [Geo](https://github.com/gcushen/)'
-  focal_point: 'Center'
-  preview_only: true
+  # placement: 1
+  # caption: 'Photo by [Geo](https://github.com/gcushen/)'
+  # focal_point: 'Center'
+  # preview_only: true
+  url: 'content/supervision/Multimodal image fusion system for brain tumor segmentation/featured.jpg' 
+
 ---
 
 <!-- Project Description -->
