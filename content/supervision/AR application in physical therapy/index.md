@@ -6,6 +6,10 @@ type: blog
 math: false
 tags:
   - Bachelor
+  - AR
+  - HCI
+  - HAR
+  - Time-Series
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

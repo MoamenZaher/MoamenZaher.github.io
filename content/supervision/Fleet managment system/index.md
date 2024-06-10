@@ -6,6 +6,12 @@ type: blog
 math: false
 tags:
   - Bachelor
+  - Time-Series
+  - Sensors
+  - CNN
+  - RNN
+  - MERN
+  - Marker Detection
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
   

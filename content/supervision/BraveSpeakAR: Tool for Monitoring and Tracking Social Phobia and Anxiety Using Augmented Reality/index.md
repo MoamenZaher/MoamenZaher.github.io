@@ -6,6 +6,11 @@ type: blog
 math: false
 tags:
   - Bachelor
+  - AR
+  - Emotion Detection
+  - Signal Processing
+  - Audio
+  - Computer Vision
 banner:
   image: 'supervision/BraveSpeakAR: Tool for Monitoring and Tracking Social Phobia and Anxiety Using Augmented Reality/featured.jpg'
 image:

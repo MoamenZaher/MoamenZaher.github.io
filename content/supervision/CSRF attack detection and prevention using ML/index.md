@@ -6,6 +6,8 @@ type: blog
 math: false
 tags:
   - Bachelor
+  - Machine Learning
+  - CSRF
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

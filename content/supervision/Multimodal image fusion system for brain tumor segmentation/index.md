@@ -6,6 +6,10 @@ type: blog
 math: false
 tags:
   - Bachelor
+  - Image Processing
+  - Fusion
+  - Transfer Learning
+  - Attention Models
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
