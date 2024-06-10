@@ -19,7 +19,6 @@ sections:
         folders:
           - supervision
     design:
-      view: showcase
-      columns: 1
-      flip_alt_rows: true
+      view: article-grid
+      columns: 2
 ---
