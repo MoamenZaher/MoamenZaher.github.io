@@ -12,7 +12,7 @@ tags:
   - Attention Models
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
-
+---
 
 ## Overview
 
@@ -24,12 +24,10 @@ image:
 
 
 ## Main Supervisor
-icon: brands/linkedin 
+items: 
 - Prof. Ammar Mohamed [LinkedIn](https://www.linkedin.com/in/ammar-mohamed-profile)
 
 #### Did you find this page helpful? Consider sharing it 🙌
-
----
 
 
 <!-- [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ammar-m-ammar/?originalSubdomain=eg) -->
