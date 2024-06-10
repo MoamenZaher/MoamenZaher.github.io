@@ -20,4 +20,14 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+    content:
+      title: Supervised Projects
+      text: I enjoy supervising these projects.
+      filters:
+        folders:
+          - supervision
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
