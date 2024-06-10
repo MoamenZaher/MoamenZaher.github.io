@@ -1,7 +1,7 @@
 ---
 title: Supervision
 summary: Projects under my supervision
-type: landing
+type: post
 
 cascade:
   - _target:
