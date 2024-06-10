@@ -4,8 +4,7 @@ summary: ..!
 date: 2024-06-10
 type: docs
 math: false
-tags:
-  - Bachelor
+tags: ["Bachelor","AR"]
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
   image: ''
