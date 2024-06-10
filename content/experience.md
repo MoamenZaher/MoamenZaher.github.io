@@ -23,9 +23,17 @@ sections:
       title: Courses
       username: admin
   
+  
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Programming Languages
+      username: admin
+    design:
+      show_skill_percentage: false
+      columns: 1
+  - block: resume-skills
+    content:
+      title: Frameworks
       username: admin
     design:
       show_skill_percentage: false

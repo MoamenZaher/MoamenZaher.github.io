@@ -144,7 +144,7 @@ skills:
         percent: 70
         icon: circle-stack
 
-
+skills:
   - name: Python Frameworks and Libraries
     items:
       - name: Numpy and Pandas
