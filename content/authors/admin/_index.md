@@ -125,8 +125,7 @@ skills:
         percent: 60
       - name: Flutter
         description: building cross-platform applications, with less than 1 year of experience.
-        icon-pack: devicon
-        icon: flutter
+        icon: devicon/flutter
         percent: 50
   - name: Technical Skills
     items:
