@@ -185,7 +185,7 @@ skills:
         description: 'Familiarity, but not extensively experienced. Utilized for AR applications.'
         percent: 20
         icon: puzzle-piece
-
+Hobbies:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
