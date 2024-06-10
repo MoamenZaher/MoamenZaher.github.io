@@ -7,7 +7,7 @@ math: false
 tags:
   - Bachelor
 banner:
-  image: 'featured.png'
+  image: 'supervision/BraveSpeakAR: Tool for Monitoring and Tracking Social Phobia and Anxiety Using Augmented Reality/featured.jpg'
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
   image: ''
