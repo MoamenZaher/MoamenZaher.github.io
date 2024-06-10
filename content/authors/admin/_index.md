@@ -115,13 +115,13 @@ skills:
       - name: Python
         description: building AI solutions, with 4 years of experience.
         percent: 95
-        icon: code-bracket
+        icon: devicon/python
       - name: NodeJS
         description: building scalable software solutions, with 2 years of experience.
-        icon: code-bracket
+        icon: devicon/nodejs
         percent: 70
       - name: PHP
-        icon: code-bracket
+        icon: devicon/php
         percent: 60
       - name: Flutter
         description: building cross-platform applications, with less than 1 year of experience.
