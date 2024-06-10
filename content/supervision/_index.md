@@ -13,7 +13,8 @@ sections:
   - block: collection
     id: supervision
     content:
-      title: Supervision
+      title: Projects under my supervision
+      text: A Collection of some project that I contributed as a co-supervisor.
       filters:
         folders:
           - supervision
