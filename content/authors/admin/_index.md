@@ -66,6 +66,7 @@ education:
     date_start: 2014-09-15
     date_end: 2018-06-15
     summary: |
+      Graduation project was titled "Spatial-Temporal Crime Data Analysis: Safe Zone"
       GPA: 3.2/4.0
 
      
@@ -91,7 +92,7 @@ work:
       Responsibilities include:
       - Instructed a diverse range of Software Engineering courses with a specialization in web development, Service-Oriented Architecture (SOA), Component-Based Development, Object-Oriented Software Engineering (OOSE), System Analysis, Human-Computer Interaction (HCI), Machine Learning, and Mobile Programming.
       - Led the coordination of significant events, including the first and second IEEE IMSA Conference in 2023 and 2024, the debut MSA Hackathon in 2023, and Faculty Day in 2022,2023, and 2024. Guided and supported incoming students through the pivotal first year of their university journey by facilitating Family Leader Orientation Sessions in 2021.
-      - Co-supervise graduation projects.
+      - Co-supervised several graduation projects.
       - Control & Exam Unit Member.
       - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
       - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects.
