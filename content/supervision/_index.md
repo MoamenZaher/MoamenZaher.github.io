@@ -17,6 +17,7 @@ sections:
     content:
       title: Projects under my supervision
       text: A Collection of some project that I contributed as a co-supervisor.
+      count: 10
       filters:
         folders:
           - supervision
