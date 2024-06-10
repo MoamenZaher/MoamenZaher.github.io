@@ -14,7 +14,6 @@ image:
 
 **Publications**
 - A Scoring Approach for Improving Presentation Impact: Addressing Voice Stuttering, AR Glasses-Based Emotion Recognition, and Profiled Movement Assessment. 
-<!-- {{< cite page="/publication/walid-2024-scoring" view="citation" >}} -->
 
 - Comparative Analysis of Movement Segmentation Techniques in Untrimmed Videos Using Optical Flow and Frame Differencing using the $1 Unistroke Recognizer.
 
