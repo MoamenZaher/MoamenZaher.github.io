@@ -57,7 +57,7 @@ education:
     date_start: 2020-11-05
     date_end: 2024-07-15
     summary: |
-      Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Assoc. Prof. Ayman Atia (https://www.fcih.net/ayman/). Presented papers at 1 IEEE conferences with the contributions being published in 1 Springer journals.
+      Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Assoc. Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. Presented papers at 1 IEEE conferences with the contributions being published in 1 Springer journals.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -66,7 +66,7 @@ education:
     date_start: 2014-09-15
     date_end: 2018-06-15
     summary: |
-      Graduation project was titled "Spatial-Temporal Crime Data Analysis: Safe Zone"
+      Graduation project was titled "Spatial-Temporal Crime Data Analysis: Safe Zone" under supervision of Dr. Soha Ehsan.
       GPA: 3.2/4.0
 
      
