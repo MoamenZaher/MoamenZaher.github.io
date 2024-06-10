@@ -2,7 +2,7 @@
 title: AR application in physical therapy
 summary: ..!
 date: 2024-06-10
-type: docs
+type: blog
 math: false
 tags:
   - Bachelor
