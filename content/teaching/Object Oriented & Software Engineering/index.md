@@ -26,6 +26,7 @@ In this course, students will gain a comprehensive understanding of the principl
     - Sequence Diagrams: Illustrating object interactions over time
 - Implementation:
     - Principles of encapsulation
+    - Types of classes
     - Managing class relations
     - Adhering to SOLID concepts for robust software design
 - Design Patterns:

@@ -1,39 +1,76 @@
 ---
 title: Machine Learning
-summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
+summary: The Machine Learning Project course aims to equip students with the fundamental concepts and practical skills required to develop, evaluate, and deploy machine learning models. This course covers essential topics, from data exploration to advanced techniques like transfer learning, providing a comprehensive understanding of machine learning.
 date: 2024-03-24
 type: docs
 math: false
 tags:
-  - OOP
-  - Software Enigneering
+  - Machine Learning
+  - Neural Networks
+  - CNN
+  - Transfer Learning
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-In this course, students will gain a comprehensive understanding of the principles and practices of object-oriented software engineering. The course content is designed to cover the first three phases of Software Development Life Cycle (SDLC), providing a solid foundation for aspiring software engineers.
+In this course, students will delve into the world of machine learning, starting with data exploration and visualization, moving through various regression and classification techniques, and culminating with advanced methods like neural networks and transfer learning. The course is designed to offer a blend of theoretical knowledge and hands-on practice, enabling students to apply machine learning techniques to real-world problems effectively.
+
 
 **Course Outline**:
-- Software Development Life Cycle (SDLC)
-- Requirement Analysis and Software Requirements Specification (SRS):
-    - Techniques for gathering and analyzing requirements
-    - Writing effective SRS documents
+- Data Exploration and Visualization:
+    - Understanding data types and structures
+    - Data cleaning and preprocessing
+    - Using visualization tools to understand data distributions and patterns
+- Gradient Descent
+    - Introduction to optimization
+    - Gradient descent algorithm
+    - Variants of gradient descent (batch, stochastic, mini-batch)
+- Linear & Polynomial Regression
+    - Simple linear regression
+    - Multiple linear regression
+    - Polynomial regression and model complexity
+- Train Test Split, K-Fold Cross-Validation, and Evaluation Metrics:
+    - Importance of data splitting
+    - Normalization
+    - Train-test split methodology
+    - K-Fold cross-validation
+    - Evaluation metrics (accuracy, precision, recall, F1 score, confusion matrix)
+- Logistic Regression:
+    - Binary classification
+    - Logistic function and hypothesis
+    - Decision boundary and model evaluation
+    - 1vs1, 1vsAll
+- Naive Bayes
+    - Probabilistic classification
+    - Bayes’ theorem
+    - Types of Naive Bayes classifiers (Gaussian, Multinomial, Bernoulli)
+- Support Vector Machines (SVM):
+    - introduction to SVM
+    - Concept of margin and support vectors
+    - Kernel trick and types of kernels (linear, polynomial, RBF)
+- K-Nearest Neighbors (KNN):
+    - Distance metrics (Euclidean, Manhattan)
+- Multilayer Perceptron (MLP):
+    -  Architecture of MLP
+- Basics of neural networks
+    - Input, Hidden, Output Layers
+    - Dropouts and regularizer
+    - Backpropagation and activation functions
+    - Loss Functions
+- Convolutional Neural Networks (CNN)
+    - Conv Layers
+    - Padding
+    - Stride
+    - Filters
+    - Pooling
+- Transfer Learning
+    - Concept of transfer learning
+    - Pre-trained models and their applications
+    - Fine-tuning and feature extraction
 
-- Unified Modeling Language (UML)
-    - Class Diagrams: Representing the static structure of the system
-    - Use Case Diagrams: Capturing functional requirements
-    - Activity Diagrams: Modeling workflows and processes
-    - Sequence Diagrams: Illustrating object interactions over time
-- Implementation:
-    - Principles of encapsulation
-    - Managing class relations
-    - Adhering to SOLID concepts for robust software design
-- Design Patterns:
-    - Creational Patterns: Techniques for object creation
-    - Structural Patterns: Simplifying relationships between entities
-    - Behavioral Patterns: Managing complex control flows and algorithms
 
-Through a combination of labs, hands-on exercises, and real-world case studies, students will learn to apply these concepts to develop well-structured and maintainable software systems. This course equips students with the skills needed to excel in the field of software engineering and prepares them for tackling complex software development projects.
+
+The Machine Learning Project course offers a robust foundation in machine learning, covering essential algorithms and techniques. By the end of the course, students will have gained the skills to tackle complex machine learning problems, evaluate their models, and apply advanced methods like transfer learning to enhance their projects. This course prepares students for further studies in machine learning and practical applications in various industries.
 
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest. -->
