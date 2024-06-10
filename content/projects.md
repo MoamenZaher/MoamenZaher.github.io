@@ -20,6 +20,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: collection
     content:
       title: Supervised Projects
       text: I enjoy supervising these projects.
