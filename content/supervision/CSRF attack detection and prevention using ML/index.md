@@ -2,7 +2,7 @@
 title: CSRF attack detection and prevention using ML
 summary: ..!
 date: 2024-06-10
-type: docs
+type: blog
 math: false
 tags:
   - Bachelor
@@ -11,14 +11,21 @@ image:
 ---
 
 <!-- Project Description -->
+## Overview
 
-**Publications**
+## Publications
 - Enhancing Web Security: A Comparative Analysis of Machine Learning Models for CSRF Detection
 
-**Student List**
+## Student List
 - Bassem Osama
 - Mohamed Ramadan
 
-**Main Supervisor**
+## Main Supervisors
 - Dr. Hesham Mansour
-- Dr. Wael El-Sersi
+[LinkedIn](https://www.linkedin.com/in/hesham-mansour-961041140/)
+
+
+- Dr. Wael El-Sersi [LinkedIn](https://www.linkedin.com/in/welsersy/)
+
+
+## Did you find this page helpful? Consider sharing it 🙌

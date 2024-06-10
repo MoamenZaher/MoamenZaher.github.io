@@ -2,7 +2,7 @@
 title: Multimodal image fusion system for brain tumor segmentation
 summary: ..!
 date: 2024-06-10
-type: docs
+type: blog
 math: false
 tags:
   - Bachelor
@@ -16,7 +16,8 @@ image:
 - Enhancing Brain Tumor Classification: A Comparative Study of Single-Model and Multi-Model Fusion Approaches.
 
 ## Student List
-- Mairam El-Khouli
+- Mairam El-Khouli  [LinkedIn](https://www.linkedin.com/in/mariam-elkhouli-083193284/)
+
 
 ## Main Supervisor
 - Prof. Ammar Mohamed [LinkedIn](https://www.linkedin.com/in/ammar-mohamed-profile)

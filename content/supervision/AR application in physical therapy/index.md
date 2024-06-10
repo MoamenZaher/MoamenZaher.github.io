@@ -11,18 +11,19 @@ image:
 ---
 
 <!-- Project Description -->
+## Overview
 
-**Publications**
+
+## Publications
 - Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. 
 
 - Physical Rehabilitation Exercises Classification Using Deep Learning Models.
 
-**Student List**
+## Student List
 - Abdallah Hamdy
 - Alaa Taie
 
-**Main Supervisor**
-- Asoc. Prof. Ayman Ezzat
-
+## Main Supervisor
+- Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
 
 ## Did you find this page helpful? Consider sharing it 🙌

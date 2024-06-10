@@ -2,7 +2,7 @@
 title: Fleet managment system
 summary: ..!
 date: 2024-06-10
-type: docs
+type: blog
 math: false
 tags:
   - Bachelor
@@ -11,13 +11,16 @@ image:
   
 ---
 
-<!-- Project Description -->
+## Overview
 
-**Publications**
+## Publications
 - Enhancing Road Safety: Leveraging CNN-LSTM and Bi-LSTM Models for Advanced Driver Behavior Detection.
 
-**Student List**
+## Student List
 - Ahmed Diaaeldin
 
-**Main Supervisor**
-- Dr. Islam EL-Shaarawy
+## Main Supervisor
+- Dr. Islam EL-Shaarawy [LinkedIn](https://www.linkedin.com/in/islamelshaarawy/?locale=ar_AE)
+
+## Did you find this page helpful? Consider sharing it 🙌
+
