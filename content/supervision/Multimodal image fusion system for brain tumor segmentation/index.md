@@ -19,4 +19,4 @@ image:
 - Mairam El-Khouli
 
 **Main Supervisor**
-- Prof. Ammar Mohamed
+- Prof. Ammar Mohamed [LinkedIn](https://www.linkedin.com/in/ammar-m-ammar/?originalSubdomain=eg)
