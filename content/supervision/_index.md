@@ -5,7 +5,7 @@ type: landing
 
 cascade:
   - _target:
-      kind: blog
+      kind: page
     params:
       show_breadcrumb: true
 
@@ -19,6 +19,7 @@ sections:
         folders:
           - supervision
     design:
-      view: article-grid
-      columns: 2
+      view: showcase
+      columns: 1
+      flip_alt_rows: true
 ---
