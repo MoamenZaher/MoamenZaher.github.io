@@ -2,7 +2,6 @@
 title: Supervision
 summary: Projects under my supervision
 type: landing
-paginate: 20
 
 
 cascade:
@@ -18,6 +17,7 @@ sections:
       title: Projects under my supervision
       text: A Collection of some project that I contributed as a co-supervisor.
       count: 0
+      paginate: 3
       filters:
         folders:
           - supervision
