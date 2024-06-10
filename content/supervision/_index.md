@@ -2,6 +2,7 @@
 title: Supervision
 summary: Projects under my supervision
 type: landing
+paginate: 10
 
 cascade:
   - _target:
