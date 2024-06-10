@@ -14,7 +14,6 @@ image:
 
 **Publications**
 - Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. 
-<!-- {{< cite page="/publication/walid-2024-scoring" view="citation" >}} -->
 
 - Physical Rehabilitation Exercises Classification Using Deep Learning Models.
 
