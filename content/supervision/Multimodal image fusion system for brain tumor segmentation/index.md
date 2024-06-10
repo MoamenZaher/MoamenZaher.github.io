@@ -11,7 +11,7 @@ image:
   placement: 1
   caption: 'Photo by [Geo](https://github.com/gcushen/)'
   focal_point: 'Center'
-  preview_only: false
+  preview_only: true
 ---
 
 <!-- Project Description -->
