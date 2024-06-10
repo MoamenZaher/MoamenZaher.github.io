@@ -18,9 +18,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-hobbis
+    content:
+      title: Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+      columns: 1
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
