@@ -17,6 +17,7 @@ image:
 ---
 
 <!-- Project Description -->
+![Cover Photo](content/supervision/Multimodal image fusion system for brain tumor segmentation/featured.jpg) <!-- Update this with the actual path to your image -->
 
 **Publications**
 - Enhancing Brain Tumor Classification: A Comparative Study of Single-Model and Multi-Model Fusion Approaches.
