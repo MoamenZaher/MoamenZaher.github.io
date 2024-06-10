@@ -111,7 +111,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - columns: 1
   - name: Programming Languages
     items:
       - name: Python
@@ -144,7 +143,7 @@ skills:
         percent: 70
         icon: circle-stack
 
-skills:
+
   - name: Python Frameworks and Libraries
     items:
       - name: Numpy and Pandas
