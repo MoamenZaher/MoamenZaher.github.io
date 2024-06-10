@@ -8,6 +8,7 @@ tags:
   - Bachelor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
+  
 ---
 
 <!-- Project Description -->

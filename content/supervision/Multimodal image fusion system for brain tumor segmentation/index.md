@@ -8,6 +8,10 @@ tags:
   - Bachelor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
+  placement: 1
+  caption: 'Photo by [Geo](https://github.com/gcushen/)'
+  focal_point: 'Center'
+  preview_only: false
 ---
 
 <!-- Project Description -->
