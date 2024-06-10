@@ -29,10 +29,10 @@ image:
 - Comparative Analysis of Movement Segmentation Techniques in Untrimmed Videos Using Optical Flow and Frame Differencing using the $1 Unistroke Recognizer.
 
 ## Student List
-- Mazen Waleed
-- Mostafa Ameen
+- Mazen Waleed [LinkedIn](https://www.linkedin.com/in/mazen-walid-225582208/)
+- Mostafa Ameen [LinkedIn](https://www.linkedin.com/in/mostafa-ameen-72511a1bb/)
 
 ## Main Supervisor
 - Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
 
-## Did you find this page helpful? Consider sharing it 🙌
+#### Did you find this page helpful? Consider sharing it 🙌
