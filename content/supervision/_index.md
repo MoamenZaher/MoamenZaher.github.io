@@ -5,7 +5,7 @@ type: landing
 
 cascade:
   - _target:
-      kind: page
+      kind: blog
     params:
       show_breadcrumb: true
 
