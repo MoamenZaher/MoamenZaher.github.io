@@ -1,16 +1,63 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2002-10-24
+title: Learn Python and Data Structures
+summary: Dive into Python and its data structures with comprehensive coverage in this course!
+date: 2024-02-10
 type: docs
 math: false
 tags:
   - Python
+  - Data Structures
+  - Programming
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Explore Python programming with a focus on data structures'
 ---
+The Python and Data Structures course provides an in-depth introduction to Python programming and essential data structures. This course is tailored for beginners and intermediate learners aiming to master Python and utilize its powerful libraries for data manipulation and analysis.
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+**Course Outline**:
+
+- Tuples:
+   - Understanding tuples and their properties
+   - Tuple operations and methods
+   - Use cases of tuples in Python programming
+
+- Sets:
+   - Introduction to sets and their characteristics
+   - Set operations and methods
+   - Practical applications of sets in data handling
+- Dictionaries
+   - Basics of dictionaries
+   - Dictionary operations and methods
+   - Using dictionaries for efficient data storage and retrieval
+
+- Files
+   - File handling in Python
+   - Reading from and writing to files
+   - Working with different file formats
+
+-Introduction to OOP
+   - Principles of object-oriented programming
+   - Creating classes and objects
+   - Constructors and methods
+   - Implementing OOP concepts in Python
+
+- NumPy
+   - Introduction to NumPy
+   - Creating and manipulating arrays
+   - Utilizing NumPy for numerical computations
+
+- Pandas
+   - Basics of pandas for data manipulation
+   - DataFrames and Series
+   - Data cleaning, transformation, and analysis using pandas
+
+- Visualization (Seaborn)
+   - Introduction to data visualization
+   - Creating plots with seaborn
+   - Customizing and interpreting visual data representations
+
+The Python and Data Structures course is designed to build a strong foundation in Python programming and data handling. By the end of this course, students will have gained the skills to effectively use Python and its libraries for various data manipulation, analysis, and visualization tasks. This course prepares students for advanced topics in data science and machine learning.
+
+<!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -137,4 +184,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

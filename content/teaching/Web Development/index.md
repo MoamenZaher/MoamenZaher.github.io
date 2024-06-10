@@ -1,40 +1,75 @@
 ---
 title: Web Development
-summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
+summary: Dive deeply into the core concepts of web programming and full-stack development!
 date: 2024-01-24
 type: docs
 math: false
 tags:
   - Web
-  - OOP
-  - Software Enigneering
+  - JS
+  - PHP
+  - Full-Stack
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-In this course, students will gain a comprehensive understanding of the principles and practices of object-oriented software engineering. The course content is designed to cover the first three phases of Software Development Life Cycle (SDLC), providing a solid foundation for aspiring software engineers.
+In this course, students will gain a comprehensive understanding of web development, covering both front-end and back-end technologies. The course content is designed to provide a solid foundation in building dynamic and responsive web applications, from designing web pages to server-side programming and database management.
 
 **Course Outline**:
-- Software Development Life Cycle (SDLC)
-- Requirement Analysis and Software Requirements Specification (SRS):
-    - Techniques for gathering and analyzing requirements
-    - Writing effective SRS documents
+- HTML
+    - Basics of HTML
+    - Structure of a web page
+    - Common HTML tags and attributes
 
-- Unified Modeling Language (UML)
-    - Class Diagrams: Representing the static structure of the system
-    - Use Case Diagrams: Capturing functional requirements
-    - Activity Diagrams: Modeling workflows and processes
-    - Sequence Diagrams: Illustrating object interactions over time
-- Implementation:
-    - Principles of encapsulation
-    - Managing class relations
-    - Adhering to SOLID concepts for robust software design
-- Design Patterns:
-    - Creational Patterns: Techniques for object creation
-    - Structural Patterns: Simplifying relationships between entities
-    - Behavioral Patterns: Managing complex control flows and algorithms
+- CSS
+    - Introduction to CSS
+    - Styling HTML elements
+    - CSS properties and selectors
 
-Through a combination of labs, hands-on exercises, and real-world case studies, students will learn to apply these concepts to develop well-structured and maintainable software systems. This course equips students with the skills needed to excel in the field of software engineering and prepares them for tackling complex software development projects.
+- More CSS (Divs, Layouts, etc.)
+    - Advanced CSS techniques
+    - Using divs for layout
+    - Responsive design principles
+
+- JavaScript (DOM, Variables, Functions, etc.)
+    - Basics of JavaScript
+    - Manipulating the DOM
+    - Variables, functions, and control structures
+
+- Introduction to React
+    - Basics of React
+    - Components and state management
+    - Building interactive user interfaces
+
+- Introduction to Server-Side Programming
+    - Overview of server-side development
+    - Introduction to back-end languages and frameworks
+    - Client-server architecture
+
+- MySQL and PhpMyAdmin
+    - Introduction to relational databases
+    - Using MySQL for database management
+    - Managing databases with PhpMyAdmin
+
+- PHP Introduction
+    - Basics of PHP
+    - Writing PHP scripts
+    - Integrating PHP with HTML
+
+- Connecting PHP and MySQL
+    - Establishing database connections with PHP
+    - Performing CRUD operations
+    - Building dynamic web applications
+
+Through a combination of lectures, labs, and hands-on projects, students will learn to apply these concepts to develop full-stack web applications. This course equips students with the skills needed to excel in web development, preparing them for careers as front-end, back-end, or full-stack developers.
+
+**Conclusion**
+The Web Development course provides a comprehensive guide to creating dynamic, responsive, and interactive web applications. By the end of this course, students will have gained practical experience in both front-end and back-end technologies, enabling them to build complete web solutions. This course is ideal for those looking to start a career in web development or enhance their programming skills for modern web applications.
+
+
+
+
+
 
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest. -->
