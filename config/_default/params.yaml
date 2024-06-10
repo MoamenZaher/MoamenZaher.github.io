@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Moamen Zaher. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -57,4 +57,6 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: 
+    pagination:
+    per_page: 15  # Adjust the number of items per page as needed

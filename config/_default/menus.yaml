@@ -21,7 +21,7 @@ main:
     weight: 20
   - name: Supervision
     url: supervision/
-    weight: 41
+    weight: 21
   - name: Projects
     url: projects/
     weight: 30
