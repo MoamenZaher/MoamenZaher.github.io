@@ -231,9 +231,22 @@ awards:
       This speciallization course contains 3 other courses:
       - Build Basic Generative Adversarial Networks (GANs): 
         The course covers the below topics:
-          - Basic GANs
-      - Build Better Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/3R4YEP8KU5AE)
-      - Apply Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/EHZARPFRSE95)
+          - Building basic GANs using PyTorch framework.
+          - Building Deep Convolutional GAN (DCGAN).
+          - Differnet Loss Functions (BCE loss, Wasserstein Loss)
+          - W-GAN and SN-GAN
+          - Conditional and Controllabe Generation
+      - Build Better Generative Adversarial Networks (GANs)
+        The course covers the below topics:
+          - Evaluation Methods.
+          - Bias and Fairness.
+          - StyleGAN
+      - Apply Generative Adversarial Networks (GANs) 
+        The course covers the below topics:
+          - Using GANs for Data Augmentation and Privacy.
+          - Image-to-Image Translation (U-Net and Pix2Pix).
+          - CycleGAN
+          - StyleGAN
   - title: Convolutional Neural Networks
     url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
     date: '2024-04-25'
