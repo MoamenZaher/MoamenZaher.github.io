@@ -14,7 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: During My academic career, I've taught several undergradute courses. Below are the list of courses that I enjoyed a lot.
+      text: During my academic career, I've taught several undergradute courses. Below are the list of courses that I enjoyed a lot.
 
       count: 0
       filters:

@@ -1,5 +1,5 @@
 ---
-title: Object Oriented Software Enigeering
+title: Object Oriented Software Engineering
 summary: Dive deeply into the core concpets of Object-oriented programming and Software Engineering's best practices!
 date: 2024-04-24
 type: docs
