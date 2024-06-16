@@ -229,19 +229,19 @@ awards:
     icon: coursera
     summary: |
       This speciallization course contains 3 other courses:
-      - Build Basic Generative Adversarial Networks (GANs): | 
+      - Build Basic Generative Adversarial Networks (GANs).
         The course covers the below topics:
           - Building basic GANs using PyTorch framework.
           - Building Deep Convolutional GAN (DCGAN).
           - Differnet Loss Functions (BCE loss, Wasserstein Loss)
           - W-GAN and SN-GAN
           - Conditional and Controllabe Generation
-      - Build Better Generative Adversarial Networks (GANs)
+      - Build Better Generative Adversarial Networks (GANs).
         The course covers the below topics:
           - Evaluation Methods.
           - Bias and Fairness.
           - StyleGAN
-      - Apply Generative Adversarial Networks (GANs) 
+      - Apply Generative Adversarial Networks (GANs). 
         The course covers the below topics:
           - Using GANs for Data Augmentation and Privacy.
           - Image-to-Image Translation (U-Net and Pix2Pix).
@@ -258,6 +258,13 @@ awards:
       Object detection and segmentation.
       - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
       - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+  - title: Structuring Machine Learning Projects
+    url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
+    date: '2024-04-22'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
 
 
   - title: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
@@ -285,13 +292,6 @@ awards:
       - Apply deep learning to solve real-world problems.
       This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
 
-  - title: Structuring Machine Learning Projects
-    url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
-    date: '2024-04-22'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
   # - title: AWS Educate Introduction to Cloud 101
   #   url: https://www.credly.com/badges/3ae19ebb-319f-4406-b58b-1d1ad3dcc975/linked_in_profile
   #   date: '2024-02-20'
