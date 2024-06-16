@@ -229,9 +229,9 @@ awards:
     icon: coursera
     summary: |
     This speciallization course contains 3 other courses:
-    - Build Basic Generative Adversarial Networks (GANs[Certificate](https://www.coursera.org/account/accomplishments/verify/GFR9CTMLDL2W)
-    - Build Better Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/3R4YEP8KU5AE)
-    - Apply Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/EHZARPFRSE95)
+      - Build Basic Generative Adversarial Networks (GANs[Certificate](https://www.coursera.org/account/accomplishments/verify/GFR9CTMLDL2W)
+      - Build Better Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/3R4YEP8KU5AE)
+      - Apply Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/EHZARPFRSE95)
   - title: Convolutional Neural Networks
     url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
     date: '2024-04-25'
