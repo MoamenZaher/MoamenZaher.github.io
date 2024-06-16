@@ -258,6 +258,8 @@ awards:
       Object detection and segmentation.
       - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
       - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+
   - title: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
     url: https://www.coursera.org/account/accomplishments/records/RABAYMGRVEG8
     date: '2024-04-20'
@@ -268,9 +270,11 @@ awards:
       - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
       -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
       - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
+
+
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/account/accomplishments/records/U9NPGXT47S8E
-    date: '2024-05-15'
+    date: '2024-04-15'
     awarder: Coursera
     icon: coursera
     summary: |
@@ -280,9 +284,10 @@ awards:
       - Identify important parameters within a neural network's architecture.
       - Apply deep learning to solve real-world problems.
       This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
+
   - title: Structuring Machine Learning Projects
     url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
-    date: '2024-05-17'
+    date: '2024-04-22'
     awarder: Coursera
     icon: coursera
     summary: |
