@@ -227,9 +227,9 @@ awards:
     date: '2024-06-16'
     awarder: Coursera
     icon: coursera
-    summary: |
+    summary: ||
       This speciallization course contains 3 other courses:
-      - Build Basic Generative Adversarial Networks (GANs): 
+      - Build Basic Generative Adversarial Networks (GANs): | 
         The course covers the below topics:
           - Building basic GANs using PyTorch framework.
           - Building Deep Convolutional GAN (DCGAN).
