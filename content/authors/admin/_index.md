@@ -222,13 +222,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Generative Adversarial Networks (GANs)
+  - title: Generative Adversarial Networks (GANs) 
     url: https://www.coursera.org/account/accomplishments/specialization/XZ788ZDUVUJQ
     date: '2024-06-16'
     awarder: Coursera
     icon: coursera
     summary: |
-    This speciallization course contains 3 other courses:
+      This speciallization course contains 3 other courses:
       - Build Basic Generative Adversarial Networks (GANs[Certificate](https://www.coursera.org/account/accomplishments/verify/GFR9CTMLDL2W)
       - Build Better Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/3R4YEP8KU5AE)
       - Apply Generative Adversarial Networks (GANs) [Certificate](https://www.coursera.org/account/accomplishments/verify/EHZARPFRSE95)
