@@ -10,7 +10,7 @@ tags:
   - CNN
   - Transfer Learning
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit:cheryltechwebz [**cheryltechwebz**](https://cheryltechwebz.business.blog/2024/04/18/unveiling-the-titans-exploring-the-top-machine-learning-companies/)'
 ---
 
 In this course, students will delve into the world of machine learning, starting with data exploration and visualization, moving through various regression and classification techniques, and culminating with advanced methods like neural networks and transfer learning. The course is designed to offer a blend of theoretical knowledge and hands-on practice, enabling students to apply machine learning techniques to real-world problems effectively.

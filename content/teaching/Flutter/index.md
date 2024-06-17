@@ -13,7 +13,7 @@ tags:
   - Mobile
   - Firebase
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: Medium[**Medium**](https://medium.flutterdevs.com/managing-the-state-of-a-widget-using-provider-flutter-6b5090f18875)'
 icon: 
 ---
 
