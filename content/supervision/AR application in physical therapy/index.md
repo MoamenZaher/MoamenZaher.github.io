@@ -19,7 +19,7 @@ image:
 
 <!-- Project Description -->
 ## Overview
-AR Application in Physical Therapy" is an interdisciplinary project conducted in collaboration with the Faculty of Physical Therapy at October University for Modern Sciences and Arts (MSA). This innovative project aims to enhance physical therapy practices by integrating advanced technologies, including augmented reality (AR) and machine learning, to improve patient outcomes and provide better training tools for therapists.
+AR Application in Physical Therapy is an interdisciplinary project conducted in collaboration with the Faculty of Physical Therapy at October University for Modern Sciences and Arts (MSA). This innovative project aims to enhance physical therapy practices by integrating advanced technologies, including augmented reality (AR) and machine learning, to improve patient outcomes and provide better training tools for therapists.
 
 In this project, we utilized a combination of benchmarking datasets and data collected within our university clinics, facilitated by the faculty of physical therapy. The primary objective was to create a robust system that can accurately assess and guide physical therapy exercises using cutting-edge techniques.
 

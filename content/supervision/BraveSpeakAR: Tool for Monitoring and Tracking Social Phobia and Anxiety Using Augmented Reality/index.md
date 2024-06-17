@@ -1,6 +1,6 @@
 ---
 title: BraveSpeakAR:Tool for Monitoring and Tracking Social Phobia and Anxiety Using Augmented Reality
-summary: **BraveSpeakAR** is a multi-modal, interdisciplinary project developed in collaboration with psychologist Amro Soliman.
+summary: BraveSpeakAR is a multi-modal, interdisciplinary project developed in collaboration with psychologist Amro Soliman.
 date: 2024-06-10
 type: blog
 math: false
