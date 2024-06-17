@@ -11,7 +11,7 @@ tags:
   - Pose Detection and HAR
   - Unity
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image copyrights: https://medium.com/@shivani.arora2021/human-computer-interaction-crafting-seamless-user-experiences-in-a-digital-world-578d7a60fbc5'
 ---
 
 This course explores the cutting-edge techniques and technologies used to enhance the interaction between humans and computers. Students will gain hands-on experience with various tools and methods essential for developing intuitive and effective user interfaces and systems.
