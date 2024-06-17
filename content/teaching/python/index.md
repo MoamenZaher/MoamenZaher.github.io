@@ -9,7 +9,7 @@ tags:
   - Data Structures
   - Programming
 image:
-  caption: 'Explore Python programming with a focus on data structures'
+  caption: 'Image credit: geeksforgeeks[**geeksforgeeks**](https://www.geeksforgeeks.org/python-data-structures/)'
 ---
 The Python and Data Structures course provides an in-depth introduction to Python programming and essential data structures. This course is tailored for beginners and intermediate learners aiming to master Python and utilize its powerful libraries for data manipulation and analysis.
 
