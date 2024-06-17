@@ -6,7 +6,7 @@ date: 2023-06-10
 type: docs
 math: false
 tags:
-  - Bachelor
+  - Web
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
