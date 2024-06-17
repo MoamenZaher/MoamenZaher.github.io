@@ -3,6 +3,8 @@ title: Teaching
 summary: My courses
 type: landing
 
+
+
 cascade:
   - _target:
       kind: page
@@ -15,7 +17,6 @@ sections:
     content:
       title: Teaching
       text: During my academic career, I've taught several undergradute courses. Below are the list of courses that I enjoyed a lot.
-
       count: 0
       filters:
         folders:
