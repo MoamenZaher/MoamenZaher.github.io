@@ -9,7 +9,7 @@ tags:
   - AR
   - Emotion Detection
   - Signal Processing
-  - Audio
+  - Audio Signal
   - Computer Vision
 banner:
   image: 'supervision/BraveSpeakAR: Tool for Monitoring and Tracking Social Phobia and Anxiety Using Augmented Reality/featured.jpg'
