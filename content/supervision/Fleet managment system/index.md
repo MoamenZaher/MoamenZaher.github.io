@@ -59,7 +59,7 @@ Implements sophisticated machine learning models to monitor and analyze driver b
 - **Scalable Architecture**: 
 The use of microservice architecture and NoSQL databases ensures the system can scale to meet the demands of large fleets and high data throughput.
 
-- The project resulted into conference publication.
+- The project resulted into a conference publication.
 
 ## Publications
 - Enhancing Road Safety: Leveraging CNN-LSTM and Bi-LSTM Models for Advanced Driver Behavior Detection.

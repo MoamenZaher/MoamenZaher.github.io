@@ -2,7 +2,7 @@
 title: Machine Learning
 summary: The Machine Learning Project course aims to equip students with the fundamental concepts and practical skills required to develop, evaluate, and deploy machine learning models. This course covers essential topics, from data exploration to advanced techniques like transfer learning, providing a comprehensive understanding of machine learning.
 date: 2024-03-24
-type: docs
+type: blog
 math: false
 tags:
   - Machine Learning

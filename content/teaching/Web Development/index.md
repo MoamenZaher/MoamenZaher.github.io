@@ -2,7 +2,7 @@
 title: Web Development
 summary: Dive deeply into the core concepts of web programming and full-stack development!
 date: 2024-01-24
-type: docs
+type: blog
 math: false
 tags:
   - Web

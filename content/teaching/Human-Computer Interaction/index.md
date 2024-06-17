@@ -2,7 +2,7 @@
 title: Human-Computer Interaction
 summary: Hand-on exercises on real-world projects of user-centered application!
 date: 2024-06-02
-type: docs
+type: blog
 math: false
 tags:
   - HCI

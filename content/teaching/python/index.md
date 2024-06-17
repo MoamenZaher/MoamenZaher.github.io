@@ -2,7 +2,7 @@
 title: Learn Python and Data Structures
 summary: Dive into Python and its data structures with comprehensive coverage in this course!
 date: 2024-02-10
-type: docs
+type: blog
 math: false
 tags:
   - Python

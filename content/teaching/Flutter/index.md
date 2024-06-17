@@ -6,7 +6,7 @@ summary: The Flutter Development course is designed to introduce students to the
 
 
 date: 2024-02-02
-type: docs
+type: blog
 math: false
 tags:
   - FLutter
