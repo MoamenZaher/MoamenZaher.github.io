@@ -1,6 +1,6 @@
 ---
 title: BraveSpeakAR:Tool for Monitoring and Tracking Social Phobia and Anxiety Using Augmented Reality
-summary: ..!
+summary: **BraveSpeakAR** is a multi-modal, interdisciplinary project developed in collaboration with psychologist Amro Soliman.
 date: 2024-06-10
 type: blog
 math: false
@@ -22,6 +22,7 @@ image:
 <!-- Project Description -->
 
 ## Overview
+**BraveSpeakAR** is a multi-modal, interdisciplinary project developed in collaboration with psychologist Amro Soliman ([LinkedIn](https://www.linkedin.com/in/amro-soliman-104274b5/?originalSubdomain=eg)). The primary objective of this project is to assist individuals suffering from social phobia and anxiety related to public speaking by providing a comprehensive and interactive tool that leverages augmented reality (AR) and advanced machine learning techniques.
 
 ## Publications
 - A Scoring Approach for Improving Presentation Impact: Addressing Voice Stuttering, AR Glasses-Based Emotion Recognition, and Profiled Movement Assessment. 

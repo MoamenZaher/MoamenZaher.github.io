@@ -1,6 +1,6 @@
 ---
 title: AR application in physical therapy
-summary: ..!
+summary: AR Application in Physical Therapy" is an interdisciplinary project conducted in collaboration with the Faculty of Physical Therapy at October University for Modern Sciences and Arts (MSA).
 date: 2024-06-10
 type: blog
 math: false
@@ -9,7 +9,10 @@ tags:
   - AR
   - HCI
   - HAR
+  - Signal Processing
   - Time-Series
+  - Attention
+  - Transfer Learning
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
