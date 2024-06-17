@@ -8,7 +8,7 @@ tags:
   - OOP
   - Software Enigneering
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image copyrights: https://www.linkedin.com/pulse/demystifying-object-oriented-programming-master-data-science-e7nvc/'
 ---
 
 In this course, students will gain a comprehensive understanding of the principles and practices of object-oriented software engineering. The course content is designed to cover the first three phases of Software Development Life Cycle (SDLC), providing a solid foundation for aspiring software engineers.
