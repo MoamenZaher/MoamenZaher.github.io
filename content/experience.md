@@ -28,7 +28,7 @@ sections:
     content:
       title: Skills
       username: admin
-      skills: {{< include "content/admin/index.md#sk" >}}
+      skills: {{< partial "content/admin/index.md#sk" >}}
 
     design:
       show_skill_percentage: false
