@@ -51,9 +51,9 @@ The core of BraveSpeakAR is a Flutter-based mobile application that enables part
 
 
 ## Publications
-- A Scoring Approach for Improving Presentation Impact: Addressing Voice Stuttering, AR Glasses-Based Emotion Recognition, and Profiled Movement Assessment. (Accepted at ICCE [an IEEE Conference]by not published yet)
+- A Scoring Approach for Improving Presentation Impact: Addressing Voice Stuttering, AR Glasses-Based Emotion Recognition, and Profiled Movement Assessment. (Accepted at ICCE [an IEEE Conference] but not published yet)
 
-- Comparative Analysis of Movement Segmentation Techniques in Untrimmed Videos Using Optical Flow and Frame Differencing using the $1 Unistroke Recognizer. (Accepted at IMSA [an IEEE Conference]by not published yet)
+- Comparative Analysis of Movement Segmentation Techniques in Untrimmed Videos Using Optical Flow and Frame Differencing using the $1 Unistroke Recognizer. (Accepted at IMSA [an IEEE Conference] but not published yet)
 
 BraveSpeakAR represents a significant step forward in the treatment and management of social phobia and public speaking anxiety. By integrating AR and machine learning, this tool offers a novel approach to helping individuals overcome their fears and build confidence in public speaking.
 

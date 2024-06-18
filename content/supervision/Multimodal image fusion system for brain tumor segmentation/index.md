@@ -41,7 +41,7 @@ The primary objective of this project is to classify brain tumors and accurately
 
 
 ## Publications
-- Enhancing Brain Tumor Classification: A Comparative Study of Single-Model and Multi-Model Fusion Approaches. (Accepted at IMSA [an IEEE Conference]by not published yet)
+- Enhancing Brain Tumor Classification: A Comparative Study of Single-Model and Multi-Model Fusion Approaches. (Accepted at IMSA [an IEEE Conference] but not published yet)
 
 The Multimodal Image Fusion System for Brain Tumor Segmentation project represents a significant advancement in the field of medical imaging. By employing a combination of fusion techniques and advanced machine learning models, this system provides a powerful tool for the accurate classification and segmentation of brain tumors. This project highlights the potential of multimodal image fusion in improving diagnostic accuracy and patient outcomes in medical imaging.
 

@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/moamen.zaher
   # - icon: brands/github
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -45,6 +43,11 @@ profiles:
     url: https://scholar.google.com/citations?user=XwaJSLwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-8560-4563
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=58283568600
+  - icon: brands/instagram
+    url: https://www.instagram.com/moamen.zaher
+  
 
 interests:
   - Machine Learning

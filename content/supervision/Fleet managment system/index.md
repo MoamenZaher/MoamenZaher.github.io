@@ -62,7 +62,7 @@ The use of microservice architecture and NoSQL databases ensures the system can 
 - The project resulted into a conference publication.
 
 ## Publications
-- Enhancing Road Safety: Leveraging CNN-LSTM and Bi-LSTM Models for Advanced Driver Behavior Detection. (Accepted at IMSA [an IEEE Conference]by not published yet)
+- Enhancing Road Safety: Leveraging CNN-LSTM and Bi-LSTM Models for Advanced Driver Behavior Detection. (Accepted at IMSA [an IEEE Conference] but not published yet)
 
 The Fleet Management System project represents a significant advancement in the management of school and university bus fleets. By integrating real-time tracking, advanced behavior monitoring, and scalable architecture, this system ensures efficient, safe, and organized transportation for students.
 
