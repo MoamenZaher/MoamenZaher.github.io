@@ -22,41 +22,35 @@ sections:
     content:
       title: Courses
       username: admin
+- block: resume-skills
+  id: programming
+  content:
+    title: Programming Languages
+    skills:
+      - name: Python
+        icon: devicon-python
+        description: Building AI solutions, with 4 years of experience.
+      - name: Java
+        icon: devicon-java
+        description: Building scalable applications, with 3 years of experience.
+      - name: JavaScript
+        icon: devicon-javascript
+        description: Frontend and backend development, with 5 years of experience.
+
   - block: resume-skills
-    id: programming
+    id: other
     content:
-      title: Programming Languages
+      title: Other Skills
       skills:
-      - name: Programming Languages
-        items:
-          - name: Python
-            description: building AI solutions, with 4 years of experience.
-            percent: 95
-            icon: devicon/python
-
-    design:
-      show_skill_percentage: false
-      columns: 1
-
-  - block: resume-skills
-    id: hobbies
-    content:
-      title: Skills & Hobbies
-      skills:
-      - name: Team Leadership
-        icon: fas fa-users
-        description: Leading cross-functional teams, with 2 years of experience.
-      - name: Project Management
-        icon: fas fa-tasks
-        description: Managing projects from initiation to completion, with 3 years of experience.
-      - name: Problem Solving
-        icon: fas fa-brain
-        description: Analyzing complex problems and finding innovative solutions.
-
-    design:
-      show_skill_percentage: false
-      columns: 1
-      
+        - name: Team Leadership
+          icon: fas fa-users
+          description: Leading cross-functional teams, with 2 years of experience.
+        - name: Project Management
+          icon: fas fa-tasks
+          description: Managing projects from initiation to completion, with 3 years of experience.
+        - name: Problem Solving
+          icon: fas fa-brain
+          description: Analyzing complex problems and finding innovative solutions.      
   - block: resume-languages
     content:
       title: Languages
