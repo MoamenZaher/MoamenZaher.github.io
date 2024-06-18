@@ -211,6 +211,33 @@ awards:
           - Image-to-Image Translation (U-Net and Pix2Pix).
           - CycleGAN
           - StyleGAN
+  # - title: Natural Language processing (NLP) Specialization
+  #   url: https://www.coursera.org/account/accomplishments/specialization/XZ788ZDUVUJQ
+  #   date: '2024-06-16'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     This speciallization course contains 4 other courses:
+  #     - Natural Language Processing with Classification and Vector Spaces.
+  #       This course dives into the fundamentals of neural networks and deep learning. The course allowed me to:
+  #       - Utilize Numpy to interact with vector operations.
+  #       - Build, train, and use fully connected deep neural networks from scratch efficiently.
+  #       - Identify important parameters within a neural network's architecture.
+  #       - Apply deep learning to solve real-world problems.
+  #       This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
+  #     - Natural Language Processing with Probabilistic Models. 
+  #     This course dives into the fundamentals of hyper-parameter optimization:
+  #       - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
+  #       -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
+  #       - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
+  #     - Natural Language Processing with Sequence Models.
+  #       Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
+  #     - Natural Language Processing with Attention Models.
+  #       The course covers the below topics:
+  #         - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
+  #         - Object detection and segmentation.
+  #         - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
+  #         - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
   # - title: Deep Learning Specialization
   #   url: https://www.coursera.org/account/accomplishments/specialization/XZ788ZDUVUJQ
   #   date: '2024-06-16'
@@ -238,7 +265,12 @@ awards:
   #         - Object detection and segmentation.
   #         - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
   #         - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-
+  #     - Sequence Models.
+  #       The course covers the below topics:
+  #         - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
+  #         - Object detection and segmentation.
+  #         - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
+  #         - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
   - title: Convolutional Neural Networks
     url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
     date: '2024-04-25'
