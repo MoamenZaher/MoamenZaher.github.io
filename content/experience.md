@@ -63,7 +63,14 @@ sections:
         - **Mediapipe**: Utilized for hand/pose estimation tasks
         - **Dlib and DeepFace**: Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection
         - **Unity and AR Core**: Familiarity, but not extensively experienced. Utilized for AR applications
-      
+   - block: markdown
+    content:
+      text: |
+        ## Volunteering
+        - **Reviewer**: Volunteered as a reviewer in The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024) conference held in Hihhot, China.
+        - **Vice Head of The Operations Team**: Volunteered as vide head of First and Second conferences of Intelligent Methods, Systems, and Application conference held in Cairo, Egypt.
+        - **Event Organizer**: Volunteered as an organizer in the faculty scientific day (Deep Minds) held in October University for Modern Sciences and Arts (MSA) in Cairo, Egypt.
+     
   - block: resume-languages
     content:
       title: Languages
