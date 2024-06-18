@@ -25,7 +25,7 @@ sections:
   - block: markdown
     content:
       text: |
-        ## Training  
+        ## List of Trainings
         - **International Research and Publication**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
 
         - **Research Ethics**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
