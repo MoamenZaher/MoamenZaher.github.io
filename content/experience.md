@@ -29,15 +29,21 @@ sections:
     design:
       show_skill_percentage: false
       columns: 1
-  - block: markdown
-  id: tech
-  design:
-    show_skill_percentage: false
-    columns: 1
-  content:
-    title: Programming Languages
-    text: |
-      - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**: Building AI solutions, with 4 years of experience.    
+  - block: resume-skills
+    content:
+      title: Programming Languages
+      skills:
+      - name: Programming Languages
+        items:
+          - name: Python
+            description: building AI solutions, with 4 years of experience.
+            percent: 95
+            icon: devicon/python
+
+    design:
+      show_skill_percentage: false
+      columns: 1
+      
   - block: resume-languages
     content:
       title: Languages
