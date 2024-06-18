@@ -42,7 +42,17 @@ sections:
     id: hobbies
     content:
       title: Skills & Hobbies
-      username: admin
+      skills:
+      - name: Team Leadership
+        icon: fas fa-users
+        description: Leading cross-functional teams, with 2 years of experience.
+      - name: Project Management
+        icon: fas fa-tasks
+        description: Managing projects from initiation to completion, with 3 years of experience.
+      - name: Problem Solving
+        icon: fas fa-brain
+        description: Analyzing complex problems and finding innovative solutions.
+
     design:
       show_skill_percentage: false
       columns: 1
