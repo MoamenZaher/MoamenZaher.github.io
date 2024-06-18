@@ -37,7 +37,7 @@ sections:
           icon: devicon-javascript
           description: Frontend and backend development, with 5 years of experience.
 
-  - block: resume-skills
+  - blocxk: resume-skills
     id: other
     content:
       title: Other Skills
