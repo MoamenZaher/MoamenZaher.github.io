@@ -67,9 +67,9 @@ sections:
     content:
       text: |
         ## Volunteering
-        - **Reviewer**: Volunteered as a reviewer in [The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024)](http://www.iwacce.org/) conference held in Hihhot, China.
-        - **Vice Head of The Operations Team**: Volunteered as vide head of [First and Second conferences of Intelligent Methods, Systems, and Application](http://imsa.msa.edu.eg/) conference held in Cairo, Egypt.
-        - **Event Organizer**: Volunteered as an organizer in the faculty scientific day ([Deep Minds](https://deepminds.msa.edu.eg/)) held in October University for Modern Sciences and Arts (MSA) in Cairo, Egypt.
+        - **Reviewer**: Volunteered as a reviewer in <a href="http://www.iwacce.org/" target="_blank">The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024)</a> conference held in Hihhot, China.
+        - **Vice Head of The Operations Team**: Volunteered as vice head of <a href="http://imsa.msa.edu.eg/" target="_blank">First and Second conferences of Intelligent Methods, Systems, and Application</a> conference held in Cairo, Egypt.
+        - **Event Organizer**: Volunteered as an organizer in the faculty scientific day (<a href="https://deepminds.msa.edu.eg/" target="_blank">Deep Minds</a>) held at October University for Modern Sciences and Arts (MSA) in Cairo, Egypt.
      
   - block: resume-languages
     content:
