@@ -22,8 +22,25 @@ sections:
     content:
       title: Courses
       username: admin
-  
-  
+  - block: markdown
+    content:
+      text: |
+        ## Training  
+        - **International Research and Publication**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
+
+        - **Research Ethics**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
+
+        - **Graduation Project Supervision**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university.(2024)
+
+        - **Information Security**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024) 
+        - **Planning and Time Management**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
+            
+        - **Writing Reports**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
+        
+        - **Mind Mapping**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
+        
+        - **Buisness, Marketing and  Entrepreneurship**: Training provided by the Technology Innovation and Entrepreneurship Center (TIEC). (2018)
+        
   - block: resume-skills
     content:
       title: Skills
@@ -46,7 +63,7 @@ sections:
         - **Mediapipe**: Utilized for hand/pose estimation tasks
         - **Dlib and DeepFace**: Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection
         - **Unity and AR Core**: Familiarity, but not extensively experienced. Utilized for AR applications
-        
+      
   - block: resume-languages
     content:
       title: Languages
