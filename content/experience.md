@@ -24,13 +24,6 @@ sections:
       username: admin
   - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-      columns: 1
-  - block: resume-skills
-    content:
       title: Programming Languages
       skills:
       - name: Programming Languages
@@ -40,6 +33,14 @@ sections:
             percent: 95
             icon: devicon/python
 
+    design:
+      show_skill_percentage: false
+      columns: 1
+
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
     design:
       show_skill_percentage: false
       columns: 1
