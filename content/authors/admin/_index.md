@@ -223,7 +223,7 @@ languages:
     percent: 20
 
 
-programming-languages:
+programming_languages:
   - name: Python
     description: Building AI solutions, with 4 years of experience.
     percent: 95
