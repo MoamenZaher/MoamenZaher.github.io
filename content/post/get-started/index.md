@@ -1,83 +1,33 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Successfully Passed the Pre-defense Seminar for My Master's Thesis 🎉 
+summary: A summary of my master's thesis on Human Activity Recognition in physical rehabilitation exercises.
+date: 2024-06-06
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: https://unsplash.com'
 
 authors:
   - admin
 
 tags:
   - Academic
-  - Wowchemy
-  - Markdown
+  - Masters
+  - Human Activity Recognition
+  - Physical Rehabilitation
+  - Machine Learning
+  - Deep Learning
+
 ---
 
-Welcome 👋
+I am thrilled to announce that I have successfully passed the Pre-defense seminar for my master's thesis. My thesis explores the application of Human Activity Recognition (HAR) in the context of physical rehabilitation exercises, aiming to provide real-time feedback and assessment. Here are some key aspects of my research:
 
-## Overview
+- **Objective**: The research investigates various machine learning and deep learning techniques, including transfer learning and attention models, to accurately recognize and evaluate physical movements. 🏋️‍♂️
+- **Methodology**: By utilizing Kinect and RGB cameras, the study ensures accessibility and cost-effectiveness, making advanced rehabilitation technologies more widely available. 📷
+- **Findings**: Through a comparative study of machine learning algorithms, a case study on a newly developed framework for assessing rehabilitation exercises, and an analysis of CNN and RNN algorithms across multiple datasets, the thesis offers comprehensive insights into the effectiveness of different approaches. 📊
+- **Contributions**: Additionally, the work includes a study on transfer learning and model fusion techniques to enhance HAR performance. The results contribute to the advancement of real-time monitoring systems, providing valuable support for patients and healthcare professionals in the rehabilitation process. 🚀
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+I would like to express my gratitude to my supervisors, Assoc. Prof. Ayman Ezzat, Dr. Amr Ghoniem, and Dr. Laila Abdelhamid, for their guidance and support throughout this journey. The Pre-defense seminar was held at Helwan University - Faculty of Computers and Artificial Intelligence (FCAI), located in Ain Helwan, Helwan, Cairo 11795. 🎓
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
-
-## Get Started
-
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://hugoblox.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
-
-## Features
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+My final master defense is expected to be held in July 2024, and I am looking forward to presenting my research findings and conclusions to the academic community. 📅
