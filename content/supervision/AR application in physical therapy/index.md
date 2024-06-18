@@ -51,9 +51,9 @@ In this project, we utilized a combination of benchmarking datasets and data col
 
 
 ## Publications
-- Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. 
+- Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. (Accepted at IMSA [an IEEE Conference]by not published yet)
 
-- Physical Rehabilitation Exercises Classification Using Deep Learning Models.
+- Physical Rehabilitation Exercises Classification Using Deep Learning Models. (Accepted at ICEENG [an IEEE Conference]by not published yet)
 
 This project represents a significant advancement in the field of physical therapy, showcasing the potential of interdisciplinary research and the application of modern technologies to improve healthcare outcomes.
 
