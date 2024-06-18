@@ -160,7 +160,7 @@ skills:
       - name: Run
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: fa-person-running
       - name: Reading
         description: ''
         percent: 80
