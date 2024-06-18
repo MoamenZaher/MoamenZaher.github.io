@@ -213,6 +213,7 @@ skills:
 #         icon: book
 
 languages:
+  id: languages
   - name: Arabic
     percent: 100
   - name: English
@@ -221,17 +222,19 @@ languages:
     percent: 30
   - name: French
     percent: 20
-    id: languages
 
 
 languages:
+  id: programming-languages
   - name: Python
-    items:
-      - name: Python
-        description: Building AI solutions, with 4 years of experience.
-        percent: 95
-        icon: devicon-python
-    id: programming-languages
+    description: Building AI solutions, with 4 years of experience.
+    percent: 95
+    icon: devicon-python
+  - name: NodeJS
+    description: building scalable software solutions, with 2 years of experience.
+    icon: devicon/nodejs
+    percent: 70
+  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
