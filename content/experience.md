@@ -28,39 +28,15 @@ sections:
     content:
       title: Skills
       username: admin
-      skills:
-        - name: Programming Languages
-          items:
-          - name: Python
-          description: building AI solutions, with 4 years of experience.
-          percent: 95
-          icon: devicon/python
     design:
       show_skill_percentage: false
       columns: 1
-
-
-  - block: resume-skills
-    content:
-      title: Hobbies
-      username: admin
-      skills: 
-        - name: Hobbies
-          color: '#eeac02'
-          color_border: '#f0bf23'
-          items:
-            - name: Football
-              description: ''
-              percent: 100
-              icon: person-simple-walk
-
-
-    design:
-      show_skill_percentage: false
-      columns: 1
-
   - block: resume-languages
     content:
       title: Languages
+      username: admin
+  - block: resume-languages
+    content:
+      title: Programming Languages
       username: admin
 ---
