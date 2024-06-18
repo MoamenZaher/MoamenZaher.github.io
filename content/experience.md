@@ -29,7 +29,7 @@ sections:
       # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
-      
+      page_type: post
       # Filter on criteria
       filters:
         # The folders to display content from
