@@ -35,6 +35,8 @@ sections:
     content:
       title: Languages
       username: admin
+      id: languages
+
   - block: resume-languages
     content:
       title: Programming Languages
