@@ -17,7 +17,7 @@ Scavenger Hunt is an interactive, game-based website designed to familiarize new
 
 The primary goal of the Scavenger Hunt project is to create a fun and educational experience for new students at MSA University. By participating in a series of scavenger hunt challenges, students get to know the campus, its facilities, and each other, fostering a sense of community and belonging from the outset.
 
-## K*ey Features
+## Key Features
 - **Interactive Gameplay**:
   - Challenges and Tasks: Students complete various challenges and tasks that guide them to different locations on campus, helping them learn about the university's layout and resources.
   - Points and Rewards: Participants earn points for completing tasks, with rewards and incentives to keep them motivated and engaged.
