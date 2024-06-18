@@ -156,7 +156,8 @@ skills:
       - name: Gym
         description: ''
         percent: 90
-        icon: fas fa-person-running
+        icon: person-running
+        icon_pack:fab
       - name: Run
         description: ''
         percent: 80
