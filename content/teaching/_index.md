@@ -17,7 +17,7 @@ sections:
     content:
       title: Teaching
       text: |
-        Throughout my teaching career, I have had the opportunity to instruct more than ten courses, impacting the academic journeys of hundreds of university students. My teaching philosophy focuses on fostering a deep understanding of the subject matter, encouraging critical thinking, and promoting hands-on learning through innovative projects. I emphasize the use of visuals to enhance learning and understanding. Additionally, I believe in understanding the history behind every solution and always asking three key questions:
+        Throughout my teaching career, I have had the opportunity to instruct more than 10 courses, impacting the academic journeys of hundreds of university students. My teaching philosophy focuses on fostering a deep understanding of the subject matter, encouraging critical thinking, and promoting hands-on learning through innovative projects. I emphasize the use of visuals to enhance learning and understanding. Additionally, I believe in understanding the history behind every solution and always asking three key questions:
           - What is the problem?
           - What are the possible solutions?
           - How can these solutions be implemented?
