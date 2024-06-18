@@ -33,8 +33,19 @@ sections:
       columns: 1
   - block: markdown
     content:
-      title: Framewokrs
-      text: this is text
+      title: Frameworks
+      text: |
+        ## Python Frameworks and Libraries      
+        - **Numpy and Pandas**: Utilized for processing data
+        - **Seaborn and Matplotlib**: Utilized for data analysis and visualization
+        - **OpenCV**: Utilized for tasks related to images/videos
+        - **TensorFlow**: Used for model creation in deep learning projects
+        - **TensorBoard**: Employed for visualizing the training process and model evaluation
+        - **YOLO**: Used for marker-less object detection and pose estimation tasks
+        - **TUIO and ArUco**: Implemented for marker object detection
+        - **Mediapipe**: Utilized for hand/pose estimation tasks
+        - **Dlib and DeepFace**: Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection
+        - **Unity and AR Core**: Familiarity, but not extensively experienced. Utilized for AR applications
   - block: resume-languages
     content:
       title: Languages
