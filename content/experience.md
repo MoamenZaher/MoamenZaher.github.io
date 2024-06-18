@@ -23,6 +23,7 @@ sections:
       title: Courses
       username: admin
   - block: resume-skills
+    id: programming
     content:
       title: Programming Languages
       skills:
@@ -38,6 +39,7 @@ sections:
       columns: 1
 
   - block: resume-skills
+    id: hobbies
     content:
       title: Skills & Hobbies
       username: admin
