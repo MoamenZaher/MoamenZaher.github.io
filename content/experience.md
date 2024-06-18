@@ -28,7 +28,7 @@ sections:
     content:
       title: Skills
       username: admin
-      skills: {{< include "content/admin/index.md#skills" >}}
+      skills: {{< include "content/admin/index.md#sk" >}}
 
     design:
       show_skill_percentage: false
@@ -39,7 +39,7 @@ sections:
     content:
       title: Hobbies
       username: admin
-      skills: {{< include "content/admin/index.md#hobbies" >}}
+      skills: {{< include "content/admin/index.md#hob" >}}
 
     design:
       show_skill_percentage: false
