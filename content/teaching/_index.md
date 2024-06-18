@@ -22,7 +22,7 @@ sections:
           - What are the possible solutions?
           - How can these solutions be implemented?
     
-        Below is a list of some of the top projects developed by my students, reflecting the creativity, hard work, and dedication that they bring to their studies.
+        Below is a list of the top courses I have taught, each designed to equip students with the knowledge and skills necessary for their academic and professional growth.
       count: 0
       filters:
         folders:
