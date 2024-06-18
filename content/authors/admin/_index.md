@@ -127,6 +127,9 @@ skills:
       - name: PHP
         icon: devicon/php
         percent: 60
+      - name: Java
+        icon: devicon/java
+        percent: 75
       - name: Flutter
         description: building cross-platform applications, with less than 1 year of experience.
         icon: devicon/flutter
