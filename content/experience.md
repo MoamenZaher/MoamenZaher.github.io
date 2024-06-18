@@ -29,6 +29,7 @@ sections:
       # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
+      
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -44,8 +45,8 @@ sections:
       # Choose a listing view
       view: date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
 
   - block: markdown
     content:
