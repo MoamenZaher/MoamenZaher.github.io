@@ -2,7 +2,7 @@
 title: Scavenger Hunt
 summary: Scavenger Hunt is an interactive, game-based website designed to familiarize new students with the MSA University campus while promoting social interaction.
 
-date: 2023-06-10
+date: 2023-09-10
 type: docs
 math: false
 tags:
