@@ -113,104 +113,104 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-sk:
-  - name: Programming Languages
-    items:
-      - name: Python
-        description: building AI solutions, with 4 years of experience.
-        percent: 95
-        icon: devicon/python
-      - name: NodeJS
-        description: building scalable software solutions, with 2 years of experience.
-        icon: devicon/nodejs
-        percent: 70
-      - name: PHP
-        icon: devicon/php
-        percent: 60
-      - name: Flutter
-        description: building cross-platform applications, with less than 1 year of experience.
-        icon: devicon/flutter
-        percent: 50
-  - name: Technical Skills
-    items:
-      - name: Object-Oriented Programming
-        description: ''
-        percent: 95
-        icon: circle-stack
-      - name: Data Structures
-        description: ''
-        percent: 75
-        icon: circle-stack
-      - name: Databases
-        description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
-        percent: 70
-        icon: circle-stack
+# sk:
+#   - name: Programming Languages
+#     items:
+#       - name: Python
+#         description: building AI solutions, with 4 years of experience.
+#         percent: 95
+#         icon: devicon/python
+#       - name: NodeJS
+#         description: building scalable software solutions, with 2 years of experience.
+#         icon: devicon/nodejs
+#         percent: 70
+#       - name: PHP
+#         icon: devicon/php
+#         percent: 60
+#       - name: Flutter
+#         description: building cross-platform applications, with less than 1 year of experience.
+#         icon: devicon/flutter
+#         percent: 50
+#   - name: Technical Skills
+#     items:
+#       - name: Object-Oriented Programming
+#         description: ''
+#         percent: 95
+#         icon: circle-stack
+#       - name: Data Structures
+#         description: ''
+#         percent: 75
+#         icon: circle-stack
+#       - name: Databases
+#         description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
+#         percent: 70
+#         icon: circle-stack
 
 
-  - name: Python Frameworks and Libraries
-    items:
-      - name: Numpy and Pandas
-        description: 'Utilized for processing data'
-        percent: 100
-        icon: wrench
-      - name: Seaborn and Matplotlib
-        description: 'Utilized for data analysis and visualization'
-        percent: 100
-        icon: chart-bar-square
-      - name: OpenCV
-        description: 'Utilized for tasks related to images/videos'
-        percent: 80
-        icon: photo  
-      - name: TensorFlow
-        description: 'Used for model creation in deep learning projects'
-        percent: 80
-        icon: cog 
-      - name: TensorBoard
-        description: 'Employed for visualizing the training process and model evaluation.'
-        percent: 80
-        icon: presentation-chart-bar 
-      - name: YOLO
-        description: 'Used for marker-less object detection and pose estimation tasks.'
-        percent: 70
-        icon: check-badge 
-      - name: TUIO and ArUco
-        description: 'Implemented for marker object detection'
-        percent: 70
-        icon: check-badge 
-      - name: Mediapipe
-        description: 'Utilized for hand/pose estimation tasks'
-        percent: 80
-        icon: magnifying-glass 
-      - name: Dlib and DeepFace
-        description: 'Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection.'
-        percent: 80
-        icon: user 
-      - name: Unity and AR Core
-        description: 'Familiarity, but not extensively experienced. Utilized for AR applications.'
-        percent: 20
-        icon: puzzle-piece
+#   - name: Python Frameworks and Libraries
+#     items:
+#       - name: Numpy and Pandas
+#         description: 'Utilized for processing data'
+#         percent: 100
+#         icon: wrench
+#       - name: Seaborn and Matplotlib
+#         description: 'Utilized for data analysis and visualization'
+#         percent: 100
+#         icon: chart-bar-square
+#       - name: OpenCV
+#         description: 'Utilized for tasks related to images/videos'
+#         percent: 80
+#         icon: photo  
+#       - name: TensorFlow
+#         description: 'Used for model creation in deep learning projects'
+#         percent: 80
+#         icon: cog 
+#       - name: TensorBoard
+#         description: 'Employed for visualizing the training process and model evaluation.'
+#         percent: 80
+#         icon: presentation-chart-bar 
+#       - name: YOLO
+#         description: 'Used for marker-less object detection and pose estimation tasks.'
+#         percent: 70
+#         icon: check-badge 
+#       - name: TUIO and ArUco
+#         description: 'Implemented for marker object detection'
+#         percent: 70
+#         icon: check-badge 
+#       - name: Mediapipe
+#         description: 'Utilized for hand/pose estimation tasks'
+#         percent: 80
+#         icon: magnifying-glass 
+#       - name: Dlib and DeepFace
+#         description: 'Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection.'
+#         percent: 80
+#         icon: user 
+#       - name: Unity and AR Core
+#         description: 'Familiarity, but not extensively experienced. Utilized for AR applications.'
+#         percent: 20
+#         icon: puzzle-piece
  
-hob: 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Football
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Gym
-        description: ''
-        percent: 90
-        icon: dumbble
-      - name: Run
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 80
-        icon: book
+# hobbies: 
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Football
+#         description: ''
+#         percent: 100
+#         icon: person-simple-walk
+#       - name: Gym
+#         description: ''
+#         percent: 90
+#         icon: dumbble
+#       - name: Run
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Reading
+#         description: ''
+#         percent: 80
+#         icon: book
 
 languages:
   - name: Arabic
