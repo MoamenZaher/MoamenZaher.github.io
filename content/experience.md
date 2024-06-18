@@ -43,6 +43,9 @@ sections:
     design:
       # Choose a listing view
       view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: markdown
     content:
