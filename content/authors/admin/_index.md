@@ -238,17 +238,6 @@ awards:
           - Object detection and segmentation.
           - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
           - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-      - Build Better Generative Adversarial Networks (GANs).
-        The course covers the below topics:
-          - Evaluation Methods.
-          - Bias and Fairness.
-          - StyleGAN
-      - Apply Generative Adversarial Networks (GANs). 
-        The course covers the below topics:
-          - Using GANs for Data Augmentation and Privacy.
-          - Image-to-Image Translation (U-Net and Pix2Pix).
-          - CycleGAN
-          - StyleGAN
 
   - title: Convolutional Neural Networks
     url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
