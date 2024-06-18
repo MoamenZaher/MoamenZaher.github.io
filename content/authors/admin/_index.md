@@ -213,7 +213,6 @@ skills:
 #         icon: book
 
 languages:
-  id: languages
   - name: Arabic
     percent: 100
   - name: English
@@ -225,7 +224,6 @@ languages:
 
 
 languages:
-  id: programming-languages
   - name: Python
     description: Building AI solutions, with 4 years of experience.
     percent: 95
