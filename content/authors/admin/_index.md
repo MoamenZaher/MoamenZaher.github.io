@@ -157,15 +157,17 @@ skills:
         description: ''
         percent: 90
         icon: person-running
-        icon_pack:fab
+        icon_pack: fab
       - name: Run
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: person-running
+        icon_pack: fas
       - name: Reading
         description: ''
         percent: 80
-        icon: book
+        icon: person-running
+        icon_pack: far
 
 languages:
   - name: Arabic
