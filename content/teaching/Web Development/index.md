@@ -10,7 +10,7 @@ tags:
   - PHP
   - Full-Stack
 image:
-  caption: 'Image credit: technibits[**technibits**](https://technibits.com/web-development.html)'
+  caption: 'Image credit: <a href="https://technibits.com/web-development.html" target="_blank">technibits</a>'
 ---
 
 In this course, students will gain a comprehensive understanding of web development, covering both front-end and back-end technologies. The course content is designed to provide a solid foundation in building dynamic and responsive web applications, from designing web pages to server-side programming and database management.

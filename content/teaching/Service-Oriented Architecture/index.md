@@ -10,7 +10,7 @@ tags:
   - MERN
   - Postman
 image:
-  caption: 'Image credit: OneWeb[**OneWeb**](https://oneweb.tech/MythOfMicroservices)'
+  caption: 'Image credit: <a href="https://oneweb.tech/MythOfMicroservices" target="_blank">OneWeb</a>'
 ---
 
 This course delves into the principles and practices of Service-Oriented Architecture (SOA) using the MERN (MongoDB, Express, React, NodeJS) stack. Students will learn to develop scalable and efficient services and applications through hands-on projects and real-world examples.
