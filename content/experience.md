@@ -26,8 +26,21 @@ sections:
   
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
+      skills: {{< getsection "admin/index.md" "skills" >}}
+
+    design:
+      show_skill_percentage: false
+      columns: 1
+
+
+  - block: resume-skills
+    content:
+      title: Hobbies
+      username: admin
+      skills: {{< getsection "admin/index.md" "hobbies" >}}
+
     design:
       show_skill_percentage: false
       columns: 1
