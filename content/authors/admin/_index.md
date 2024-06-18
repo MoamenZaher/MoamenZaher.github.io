@@ -113,7 +113,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-sks:
+skills:
   - name: Programming Languages
     items:
       - name: Python
@@ -190,27 +190,27 @@ sks:
         percent: 20
         icon: puzzle-piece
  
-hobs: 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Football
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Gym
-        description: ''
-        percent: 90
-        icon: dumbble
-      - name: Run
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 80
-        icon: book
+# hobbies: 
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Football
+#         description: ''
+#         percent: 100
+#         icon: person-simple-walk
+#       - name: Gym
+#         description: ''
+#         percent: 90
+#         icon: dumbble
+#       - name: Run
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Reading
+#         description: ''
+#         percent: 80
+#         icon: book
 
 languages:
   - name: Arabic
