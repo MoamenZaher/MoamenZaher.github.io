@@ -33,7 +33,6 @@ sections:
       columns: 1
   - block: markdown
     content:
-      title: Frameworks
       text: |
         ## Python Frameworks and Libraries      
         - **Numpy and Pandas**: Utilized for processing data
@@ -41,6 +40,7 @@ sections:
         - **OpenCV**: Utilized for tasks related to images/videos
         - **TensorFlow**: Used for model creation in deep learning projects
         - **TensorBoard**: Employed for visualizing the training process and model evaluation
+        - **Mediapipe**: Used for human pose estimation tasks.
         - **YOLO**: Used for marker-less object detection and pose estimation tasks
         - **TUIO and ArUco**: Implemented for marker object detection
         - **Mediapipe**: Utilized for hand/pose estimation tasks

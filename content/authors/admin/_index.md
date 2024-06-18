@@ -144,52 +144,7 @@ skills:
       - name: Databases
         description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
         percent: 70
-        icon: circle-stack
-
-
-  - name: Python Frameworks and Libraries
-    items:
-      - name: Numpy and Pandas
-        description: 'Utilized for processing data'
-        percent: 100
-        icon: wrench
-      - name: Seaborn and Matplotlib
-        description: 'Utilized for data analysis and visualization'
-        percent: 100
-        icon: chart-bar-square
-      - name: OpenCV
-        description: 'Utilized for tasks related to images/videos'
-        percent: 80
-        icon: photo  
-      - name: TensorFlow
-        description: 'Used for model creation in deep learning projects'
-        percent: 80
-        icon: cog 
-      - name: TensorBoard
-        description: 'Employed for visualizing the training process and model evaluation.'
-        percent: 80
-        icon: presentation-chart-bar 
-      - name: YOLO
-        description: 'Used for marker-less object detection and pose estimation tasks.'
-        percent: 70
-        icon: check-badge 
-      - name: TUIO and ArUco
-        description: 'Implemented for marker object detection'
-        percent: 70
-        icon: check-badge 
-      - name: Mediapipe
-        description: 'Utilized for hand/pose estimation tasks'
-        percent: 80
-        icon: magnifying-glass 
-      - name: Dlib and DeepFace
-        description: 'Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection.'
-        percent: 80
-        icon: user 
-      - name: Unity and AR Core
-        description: 'Familiarity, but not extensively experienced. Utilized for AR applications.'
-        percent: 20
-        icon: puzzle-piece
- 
+        icon: circle-stack 
 # hobbies: 
 #   - name: Hobbies
 #     color: '#eeac02'
