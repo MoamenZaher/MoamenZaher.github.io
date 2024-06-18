@@ -222,13 +222,14 @@ languages:
   - name: French
     percent: 20
 
-programming_languages:
+languages:
   - name: Python
     items:
       - name: Python
         description: Building AI solutions, with 4 years of experience.
         percent: 95
         icon: devicon-python
+    id: programming-languages
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
