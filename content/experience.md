@@ -27,7 +27,7 @@ sections:
     content:
       title: Hobbies
       username: admin
-      skills: {{< getsection "admin/index.md" "hobbies" >}}
+      skills: {{< getsection "admin/index.md" "hobs" >}}
 
     design:
       show_skill_percentage: false
@@ -37,7 +37,7 @@ sections:
     content:
       title: Skills
       username: admin
-      skills: {{< getsection "admin/index.md" "skills" >}}
+      skills: {{< getsection "admin/index.md" "sks" >}}
 
     design:
       show_skill_percentage: false
