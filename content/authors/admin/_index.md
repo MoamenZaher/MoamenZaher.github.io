@@ -145,27 +145,26 @@ skills:
         description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
         percent: 70
         icon: circle-stack 
-# hobbies: 
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Football
-#         description: ''
-#         percent: 100
-#         icon: person-simple-walk
-#       - name: Gym
-#         description: ''
-#         percent: 90
-#         icon: dumbble
-#       - name: Run
-#         description: ''
-#         percent: 80
-#         icon: person-simple-walk
-#       - name: Reading
-#         description: ''
-#         percent: 80
-#         icon: book
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Football
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Gym
+        description: ''
+        percent: 90
+        icon: dumbble
+      - name: Run
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book
 
 languages:
   - name: Arabic
