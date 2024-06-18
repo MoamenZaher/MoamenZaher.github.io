@@ -42,7 +42,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: date-title-summary
 
   - block: markdown
     content:
