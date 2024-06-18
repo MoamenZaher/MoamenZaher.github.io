@@ -156,11 +156,11 @@ skills:
       - name: Gym
         description: ''
         percent: 90
-        icon: fab/dumbbell
+        icon: fas/dumbbell
       - name: Run
         description: ''
         percent: 80
-        icon: fa-person-running
+        icon: far/person-running
       - name: Reading
         description: ''
         percent: 80
