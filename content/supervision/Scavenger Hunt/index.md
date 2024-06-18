@@ -65,3 +65,5 @@ The Scavenger Hunt project offers a novel and effective approach to student orie
 **Main Supervisor**
 - Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
 - Dr. Islam EL-Shaarawy [LinkedIn](https://www.linkedin.com/in/islamelshaarawy/?locale=ar_AE)
+
+**Did you find this page helpful? Consider sharing it 🙌**

@@ -44,4 +44,4 @@ CSRF attacks pose a significant threat to web applications by tricking users int
 - Dr. Wael El-Sersi [LinkedIn](https://www.linkedin.com/in/welsersy/)
 
 
-#### Did you find this page helpful? Consider sharing it 🙌
+**Did you find this page helpful? Consider sharing it 🙌**
