@@ -7,11 +7,10 @@ math: false
 tags:
   - Bachelor
   - AR
-  - HCI
   - HAR
   - Signal Processing
   - Time-Series
-  - Attention
+  - Attention Models
   - Transfer Learning
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
