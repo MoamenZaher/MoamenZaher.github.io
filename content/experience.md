@@ -31,6 +31,9 @@ sections:
       columns: 1
   - block: markdown
     id: tech
+    design:
+      show_skill_percentage: false
+      columns: 1
     content:
       title: Programming Languages
       items:
