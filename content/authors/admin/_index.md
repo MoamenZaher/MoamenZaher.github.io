@@ -156,7 +156,8 @@ skills:
       - name: Gym
         description: ''
         percent: 90
-        icon: dumbble
+        icon_pack: fab
+        icon: dumbbell
       - name: Run
         description: ''
         percent: 80
