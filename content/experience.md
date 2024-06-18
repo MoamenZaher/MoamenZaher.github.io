@@ -67,7 +67,7 @@ sections:
     content:
       text: |
         ## Volunteering
-        - **Reviewer**: Volunteered as a reviewer in The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024) conference held in Hihhot, China.
+        - **Reviewer**: Volunteered as a reviewer in [The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024)](http://www.iwacce.org/) conference held in Hihhot, China.
         - **Vice Head of The Operations Team**: Volunteered as vide head of First and Second conferences of Intelligent Methods, Systems, and Application conference held in Cairo, Egypt.
         - **Event Organizer**: Volunteered as an organizer in the faculty scientific day (Deep Minds) held in October University for Modern Sciences and Arts (MSA) in Cairo, Egypt.
      
