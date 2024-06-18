@@ -31,15 +31,14 @@ sections:
     design:
       show_skill_percentage: false
       columns: 1
+  - block: markdown
+    content:
+      title: Framewokrs
+      text: this is text
   - block: resume-languages
     content:
       title: Languages
       username: admin
       id: languages
 
-  - block: resume-languages
-    content:
-      title: Programming Languages
-      username: admin
-      id: programming_languages
 ---

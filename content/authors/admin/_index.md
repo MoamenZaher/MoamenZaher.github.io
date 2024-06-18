@@ -223,15 +223,6 @@ languages:
     percent: 20
 
 
-programming_languages:
-  - name: Python
-    description: Building AI solutions, with 4 years of experience.
-    percent: 95
-    icon: devicon-python
-  - name: NodeJS
-    description: building scalable software solutions, with 2 years of experience.
-    icon: devicon/nodejs
-    percent: 70
   
 # Awards.
 #   Add/remove as many awards below as you like.
