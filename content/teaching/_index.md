@@ -21,6 +21,7 @@ sections:
           - What is the problem?
           - What are the possible solutions?
           - How can these solutions be implemented?
+    
         Below is a list of some of the top projects developed by my students, reflecting the creativity, hard work, and dedication that they bring to their studies.
       count: 0
       filters:
