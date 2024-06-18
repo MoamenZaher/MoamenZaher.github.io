@@ -13,8 +13,8 @@ tags:
   - Mobile
   - Firebase
 image:
-  caption: 'Image credit: Medium[**Medium**](https://medium.flutterdevs.com/managing-the-state-of-a-widget-using-provider-flutter-6b5090f18875)'
-icon: 
+  caption: 'Image credit: <a href="https://medium.flutterdevs.com/managing-the-state-of-a-widget-using-provider-flutter-6b5090f18875" target="_blank">Medium</a>'
+icon: twitter
 ---
 
 This course begins with an introduction to cross-platform development, comparing Flutter with other frameworks like React Native. Students will then dive into the basics of Flutter, exploring its widgets and layout system. The course progresses to more advanced topics such as state management, integrating assets, connecting to Firebase for backend services, and fetching data from external APIs. By the end of the course, students will have a solid foundation in Flutter development and the ability to create fully functional mobile applications.
