@@ -62,8 +62,8 @@ sections:
         - **TUIO and ArUco**: Implemented for marker object detection
         - **Mediapipe**: Utilized for hand/pose estimation tasks
         - **Dlib and DeepFace**: Applied for various facial related tasks such as facial expression, facial recognition, gaze tracking, and landmark detection
-        - **Unity and AR Core**: Familiarity, but not extensively experienced. Utilized for AR applications
-   - block: markdown
+        - **Unity and AR Core**: Familiarity, but not extensively experienced. Utilized for AR applications.
+  - block: markdown
     content:
       text: |
         ## Volunteering
