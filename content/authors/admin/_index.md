@@ -211,7 +211,7 @@ awards:
           - Image-to-Image Translation (U-Net and Pix2Pix).
           - CycleGAN
           - StyleGAN
-    - title: Deep Learning Specialization
+  - title: Deep Learning Specialization
     url: https://www.coursera.org/account/accomplishments/specialization/XZ788ZDUVUJQ
     date: '2024-06-16'
     awarder: Coursera
