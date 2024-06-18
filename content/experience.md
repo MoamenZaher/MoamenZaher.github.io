@@ -22,8 +22,6 @@ sections:
     content:
       title: Courses
       username: admin
-  
-  
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -31,7 +29,16 @@ sections:
     design:
       show_skill_percentage: false
       columns: 1
-
+  - block: markdown
+    id: tech
+    content:
+      title: Programming Languages
+      items:
+      - name: Python
+        description: building AI solutions, with 4 years of experience.
+        percent: 95
+        icon: devicon/python
+      
   - block: resume-languages
     content:
       title: Languages
