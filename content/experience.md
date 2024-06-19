@@ -39,7 +39,7 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
+      order: desc
     design:
       # Choose a listing view
       view: date-title-summary
