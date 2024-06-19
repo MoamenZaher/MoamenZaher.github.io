@@ -32,6 +32,9 @@ sections:
       page_type: post
       # Filter on criteria
       filters:
+        exclude_future: false
+        exclude_past: false
+
         # The folders to display content from
         folders:
           - awards
