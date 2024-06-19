@@ -29,12 +29,8 @@ sections:
       # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
-      page_type: post
       # Filter on criteria
       filters:
-        exclude_future: false
-        exclude_past: false
-
         # The folders to display content from
         folders:
           - awards
@@ -42,13 +38,14 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      order: desc
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       # Choose a listing view
       view: date-title-summary
       # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: markdown
     content:
