@@ -31,6 +31,10 @@ sections:
       count: 3
       # Filter on criteria
       filters:
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+
         # The folders to display content from
         folders:
           - awards
@@ -38,8 +42,9 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      # sort_by: 'Date'
+      # sort_ascending: false
+      order: desc
     design:
       # Choose a listing view
       view: date-title-summary
