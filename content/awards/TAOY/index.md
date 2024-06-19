@@ -1,7 +1,7 @@
 ---
 title: TAOY 🎉 
 summary: Moamen zaher was nominated as Teaching Assitant of the Year for faculty of Computer Sciences at October University for Modern Sciences and Arts (MSA).
-date: '2023-07-01T13:00:00Z'
+date: '2024-07-01T13:00:00Z'
 # publishDate: '2017-01-01T00:00:00Z'
 
 # Featured image
