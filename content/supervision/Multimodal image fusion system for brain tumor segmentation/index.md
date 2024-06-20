@@ -11,7 +11,7 @@ tags:
   - Transfer Learning
   - Attention Models
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: <a href="https://www.qodenext.com/blog/vehicle-fleet-management-system/" target="_blank">qodenext</a>'
 ---
 
 ## Overview

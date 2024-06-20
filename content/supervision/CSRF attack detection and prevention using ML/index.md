@@ -9,7 +9,7 @@ tags:
   - Machine Learning
   - CSRF
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: <a href="https://www.imperva.com/learn/application-security/csrf-cross-site-request-forgery/" target="_blank">imperva</a>'
 ---
 
 <!-- Project Description -->
