@@ -63,6 +63,5 @@ BraveSpeakAR represents a significant step forward in the treatment and manageme
 
 ## Main Supervisor
 - Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
-
-#### Did you **Did you find this page helpful? Consider sharing it 🙌**
-find this page helpful? Consider sharing it 🙌
+ 
+ **Did you find this page helpful? Consider sharing it 🙌**
