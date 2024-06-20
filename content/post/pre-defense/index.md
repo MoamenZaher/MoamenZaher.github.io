@@ -6,7 +6,7 @@ date: 2024-06-06
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: <a href="https://www.freepik.com/" target="_blank">qodefreepiknext</a>'
+  caption: 'Image credit: <a href="https://www.freepik.com/" target="_blank">freepik</a>'
 
 authors:
   - admin
