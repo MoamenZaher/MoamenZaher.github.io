@@ -13,7 +13,7 @@ tags:
   - Attention Models
   - Transfer Learning
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  # caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 <!-- Project Description -->
