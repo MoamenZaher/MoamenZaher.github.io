@@ -206,9 +206,9 @@ awards:
         The course covers the below topics:
           - Building basic GANs using PyTorch framework.
           - Building Deep Convolutional GAN (DCGAN).
-          - Differnet Loss Functions (BCE loss, Wasserstein Loss)
+          - Different Loss Functions (BCE loss, Wasserstein Loss)
           - W-GAN and SN-GAN
-          - Conditional and Controllabe Generation
+          - Conditional and Controllable Generation
       - Build Better Generative Adversarial Networks (GANs).
         The course covers the below topics:
           - Evaluation Methods.
