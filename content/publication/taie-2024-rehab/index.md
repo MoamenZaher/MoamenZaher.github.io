@@ -8,7 +8,7 @@ authors:
 - Omnia Saeed Mahmoud Ahmed
 - Ayman Atia
 date: '2024-05-23'
-publishDate: '2024-06-25T17:39:33.786847Z'
+publishDate: '2024-06-25'
 publication_types:
 - paper-conference
 publication: '*2024 14th International Conference on Electrical Engineering (ICEENG)*'
