@@ -246,83 +246,79 @@ awards:
           - Build a Transformer model to summarize text.
           - Use T5 and BERT models to perform question-answering.
           - Getting familiar with Hugging Face, load it's datasets, and utilize the pre-trained models and pipelines.
-  # - title: Deep Learning Specialization
-  #   url: https://www.coursera.org/account/accomplishments/specialization/XZ788ZDUVUJQ
-  #   date: '2024-06-16'
+  - title: Deep Learning Specialization
+    url: https://www.coursera.org/account/accomplishments/specialization/BH2G4VY4HC25
+    date: '2024-07-03'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      This speciallization course contains 5 other courses:
+      - Neural Networks and Deep Learning.
+        - Utilize Numpy to interact with vector operations.
+        - Build, train, and use fully connected deep neural networks from scratch efficiently.
+        - Identify important parameters within a neural network's architecture.
+        - Apply deep learning to solve real-world problems.
+        This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
+      - Improving Deep Neural Networks; Hyperparameter    Tuning, Regularization and Optimization. 
+        - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
+        -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
+        - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
+      - Structuring Machine Learning Projects.
+        Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
+      - Convolutional Neural Networks (CNN).
+          - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception) and data Augmentation.
+          - Object detection and segmentation.
+          - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
+          - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+      - Sequence Models.
+          - Recurrent Neural Networks (RNNs).
+          - Natural Language Processing (NLP) & Word Embeddings.
+          - Sequence Models & Attention Mechanism.
+          - Transformer Network.
+  # - title: Convolutional Neural Networks
+  #   url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
+  #   date: '2024-04-25'
   #   awarder: Coursera
   #   icon: coursera
   #   summary: |
-  #     This speciallization course contains 5 other courses:
-  #     - Neural Networks and Deep Learning.
-  #       This course dives into the fundamentals of neural networks and deep learning. The course allowed me to:
-  #       - Utilize Numpy to interact with vector operations.
-  #       - Build, train, and use fully connected deep neural networks from scratch efficiently.
-  #       - Identify important parameters within a neural network's architecture.
-  #       - Apply deep learning to solve real-world problems.
-  #       This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
-  #     - Improving Deep Neural Networks; Hyperparameter    Tuning, Regularization and Optimization. 
-  #     This course dives into the fundamentals of hyper-parameter optimization:
-  #       - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
-  #       -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
-  #       - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
-  #     - Structuring Machine Learning Projects.
-  #       Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
-  #     - Convolutional Neural Networks (CNN).
-  #       The course covers the below topics:
-  #         - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
-  #         - Object detection and segmentation.
-  #         - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
-  #         - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-  #     - Sequence Models.
-  #       The course covers the below topics:
-  #         - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
-  #         - Object detection and segmentation.
-  #         - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
-  #         - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-  - title: Convolutional Neural Networks
-    url: https://www.coursera.org/account/accomplishments/records/HFUDF957DQP5
-    date: '2024-04-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      This course is part of the Deep Learning Specialization. The course covers the below topics:
-      - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
-      Object detection and segmentation.
-      - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
-      - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-  - title: Structuring Machine Learning Projects
-    url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
-    date: '2024-04-22'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
+  #     This course is part of the Deep Learning Specialization. The course covers the below topics:
+  #     - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception). and data Augmentation.
+  #     Object detection and segmentation.
+  #     - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
+  #     - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+  # - title: Structuring Machine Learning Projects
+  #   url: https://www.coursera.org/account/accomplishments/records/ZW9BRALL3TA8
+  #   date: '2024-04-22'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     This course in the Deep Learning Specialization explores managing machine learning projects. Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
 
 
-  - title: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
-    url: https://www.coursera.org/account/accomplishments/records/RABAYMGRVEG8
-    date: '2024-04-20'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      This course is considered the second level in a set of 5 courses for the DL Specialization track. This course dives into the fundamentals of hyper-parameter optimization:
-      - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
-      -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
-      - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
+  # - title: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
+  #   url: https://www.coursera.org/account/accomplishments/records/RABAYMGRVEG8
+  #   date: '2024-04-20'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     This course is considered the second level in a set of 5 courses for the DL Specialization track. This course dives into the fundamentals of hyper-parameter optimization:
+  #     - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
+  #     -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
+  #     - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
 
 
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/account/accomplishments/records/U9NPGXT47S8E
-    date: '2024-04-15'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      This course dives into the fundamentals of neural networks and deep learning. The course allowed me to:
-      - Utilize Numpy to interact with vector operations.
-      - Build, train, and use fully connected deep neural networks from scratch efficiently.
-      - Identify important parameters within a neural network's architecture.
-      - Apply deep learning to solve real-world problems.
-      This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
+  # - title: Neural Networks and Deep Learning
+  #   url: https://www.coursera.org/account/accomplishments/records/U9NPGXT47S8E
+  #   date: '2024-04-15'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     This course dives into the fundamentals of neural networks and deep learning. The course allowed me to:
+  #     - Utilize Numpy to interact with vector operations.
+  #     - Build, train, and use fully connected deep neural networks from scratch efficiently.
+  #     - Identify important parameters within a neural network's architecture.
+  #     - Apply deep learning to solve real-world problems.
+  #     This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
 
   # - title: AWS Educate Introduction to Cloud 101
   #   url: https://www.credly.com/badges/3ae19ebb-319f-4406-b58b-1d1ad3dcc975/linked_in_profile
