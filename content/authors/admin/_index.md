@@ -202,19 +202,19 @@ awards:
     icon: coursera
     summary: |
       This speciallization course contains 3 other courses:
-      1. Build Basic Generative Adversarial Networks (GANs).
+      - Build Basic Generative Adversarial Networks (GANs).
         The course covers the below topics:
           - Building basic GANs using PyTorch framework.
           - Building Deep Convolutional GAN (DCGAN).
           - Different Loss Functions (BCE loss, Wasserstein Loss)
           - W-GAN and SN-GAN
           - Conditional and Controllable Generation
-      2. Build Better Generative Adversarial Networks (GANs).
+      - Build Better Generative Adversarial Networks (GANs).
         The course covers the below topics:
           - Evaluation Methods.
           - Bias and Fairness.
           - StyleGAN
-      3. Apply Generative Adversarial Networks (GANs). 
+      - Apply Generative Adversarial Networks (GANs). 
         The course covers the below topics:
           - Using GANs for Data Augmentation and Privacy.
           - Image-to-Image Translation (U-Net and Pix2Pix).
@@ -227,21 +227,21 @@ awards:
     icon: coursera
     summary: |
       This speciallization course contains 4 other courses:
-      1. Natural Language Processing with Classification and Vector Spaces.
+      - Natural Language Processing with Classification and Vector Spaces.
         - Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
         - Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships.
         - Write a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
-      2. Natural Language Processing with Probabilistic Models. 
+      - Natural Language Processing with Probabilistic Models. 
         - Create a simple auto-correct algorithm using minimum edit distance and dynamic programming.
         -  Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is vital for computational linguistics.
         - Write a better auto-complete algorithm using an N-gram language model.
         - Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
-      3. Natural Language Processing with Sequence Models.
+      - Natural Language Processing with Sequence Models.
           - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets.
           - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model.
           - Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers.
           - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
-      4. Natural Language Processing with Attention Models.
+      - Natural Language Processing with Attention Models.
           - Translate complete English sentences into German using an encoder-decoder attention model.
           - Build a Transformer model to summarize text.
           - Use T5 and BERT models to perform question-answering.
@@ -253,24 +253,24 @@ awards:
     icon: coursera
     summary: |
       This speciallization course contains 5 other courses:
-      1. Neural Networks and Deep Learning.
+      - Neural Networks and Deep Learning.
         - Utilize Numpy to interact with vector operations.
         - Build, train, and use fully connected deep neural networks from scratch efficiently.
         - Identify important parameters within a neural network's architecture.
         - Apply deep learning to solve real-world problems.
         This course is considered the first level in a set of 5 courses for the Deep Learning Specialization track offered by DeepLearning.AI.
-      2. Improving Deep Neural Networks; Hyperparameter    Tuning, Regularization and Optimization. 
+      - Improving Deep Neural Networks; Hyperparameter    Tuning, Regularization and Optimization. 
         - the best practices to train/develop test sets and analyze bias/variance for building DL applications.
         -  use standard NN techniques such as initialization, L2 and dropout regularization, hyper-parameter tuning, and batch normalization.
         - implement and apply a mini-batch gradient descent, Momentum, RMSprop and Adam optimizers.
-      3. Structuring Machine Learning Projects.
+      - Structuring Machine Learning Projects.
         Learn to split data for training, dev, and test, tailored for small and large datasets. Setting up a single evaluation metric using various metrics and understand the difference between satisfactory metrics and optimization metrics, diagnose errors, prioritize error-reduction strategies ,and understand complex ML settings. Apply end-to-end learning, transfer learning, and multi-task learning.
-      4. Convolutional Neural Networks (CNN).
+      - Convolutional Neural Networks (CNN).
           - Edge dectection, Transfer learning and pre-trained models (ResNet,MobileNet,Inception) and data Augmentation.
           - Object detection and segmentation.
           - computer vision  applications (autonomous driving, face recognition, reading radiology images, and more.
           - Neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
-      5. Sequence Models.
+      - Sequence Models.
           - Recurrent Neural Networks (RNNs).
           - Natural Language Processing (NLP) & Word Embeddings.
           - Sequence Models & Attention Mechanism.
