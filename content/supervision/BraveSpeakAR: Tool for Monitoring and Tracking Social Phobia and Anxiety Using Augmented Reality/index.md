@@ -58,7 +58,7 @@ The core of BraveSpeakAR is a Flutter-based mobile application that enables part
 BraveSpeakAR represents a significant step forward in the treatment and management of social phobia and public speaking anxiety. By integrating AR and machine learning, this tool offers a novel approach to helping individuals overcome their fears and build confidence in public speaking.
 
 ## Awards
-The project was awarded the  second-best graduation project at the Faculty of Computer Science, October University for Modern Sciences and Arts (MSA), standing out among over 25 other exceptional projects in the Software Engineering department.
+The project was awarded the  second-best graduation project at the Faculty of Computer Science, October University for Modern Sciences and Arts (MSA), standing out among over 30 other exceptional projects in the Software Engineering department.
 
 ## Student List
 - Mazen Waleed [LinkedIn](https://www.linkedin.com/in/mazen-walid-225582208/)
