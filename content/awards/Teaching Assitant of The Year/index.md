@@ -19,7 +19,7 @@ tags:
 ---
 I am honored to announce that I have been selected as the Teaching Assistant of the Year for the Faculty of Computer Sciences at October University for Modern Sciences and Arts (MSA) for the academic year 2023/2024.
 
-# Achievements During the Year
+## Achievements During the Year
 - ***Co-supervising Graduation Projects:***
 I co-supervised 5 graduation projects involving a total of 8 students. These projects were highly successful, resulting in 7 accepted or published conference papers and 1 draft journal paper.
 
