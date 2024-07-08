@@ -1,6 +1,6 @@
 ---
 title: Teaching Assistant of the Year Award 2023/2024 🎉 
-summary: Moamen zaher was selected as Teaching Assitant of the Year for the faculty of Computer Sciences at October University for Modern Sciences and Arts (MSA) for the academic year 2023/2024.
+summary: Moamen zaher was selected as the Teaching Assitant of the Year for the faculty of Computer Sciences at October University for Modern Sciences and Arts (MSA) for the academic year 2023/2024.
 date: '2024-07-07T13:00:00Z'
 publishDate: '2024-07-08T13:00:00Z'
 
