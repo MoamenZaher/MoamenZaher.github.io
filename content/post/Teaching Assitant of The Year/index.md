@@ -6,9 +6,8 @@ publishDate: '2024-07-08T13:00:00Z'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-# image:
-#   caption: 'Image credit: https://unsplash.com'
-
+image:
+  caption: ' Myself beside the Dean of the Faculty (Center), the Vice Dean of the Faculty for Academic Research (Right), and the Vice Dean of the Faculty for Education and Student Affairs (Left).'
 authors:
   - admin
 
