@@ -8,6 +8,7 @@ publishDate: '2024-07-08T13:00:00Z'
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ' Myself beside the Dean of the Faculty (Center), the Vice Dean of the Faculty for Academic Research (Right), and the Vice Dean of the Faculty for Education and Student Affairs (Left).'
+
 authors:
   - admin
 
@@ -36,6 +37,8 @@ As a member of the control and exam unit, I contributed to maintaining academic 
 
 - ***Student Guidance and Support:***
 Throughout the year, I provided continuous guidance and support to students during their courses and graduation projects, helping them achieve their academic and professional goals.
+
+![screen reader text](certificate_TAoY "Certificate of appreciation.")
 
 
 I am deeply grateful for this recognition and look forward to continuing my efforts to inspire and support students in their academic journeys.
