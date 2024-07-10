@@ -67,3 +67,8 @@ The Scavenger Hunt project offers a novel and effective approach to student orie
 - Dr. Islam EL-Shaarawy [LinkedIn](https://www.linkedin.com/in/islamelshaarawy/?locale=ar_AE)
 
 **Did you find this page helpful? Consider sharing it 🙌**
+
+<!-- add images of :
+1- Team
+2- Dr. Khairy
+3- Certificate -->

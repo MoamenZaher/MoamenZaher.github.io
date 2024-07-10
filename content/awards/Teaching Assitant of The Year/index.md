@@ -48,6 +48,7 @@ Throughout the year, I provided continuous guidance and support to students duri
   <div><img src="{{assets/media/certificate_TAoY.jpg}}" alt="assets 3"></div>
   <div><img src="{{static/media/certificate_TAoY.jpg}}" alt="static"></div>
   <div><img src="{{media/certificate_TAoY.jpg}}" alt="media"></div>
+  <div><img src="media/certificate_TAoY.jpg" alt="media"></div>
   <!-- Add more images as needed -->
 </div>
 

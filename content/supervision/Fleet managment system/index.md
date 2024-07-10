@@ -67,10 +67,19 @@ The use of microservice architecture and NoSQL databases ensures the system can 
 The Fleet Management System project represents a significant advancement in the management of school and university bus fleets. By integrating real-time tracking, advanced behavior monitoring, and scalable architecture, this system ensures efficient, safe, and organized transportation for students.
 
 ## Student List
-- Ahmed Diaaeldin
+- Ahmed Diaaeldin [LinkedIn](https://www.linkedin.com/in/ahmed-diaaeldin-489374287/)
 
 ## Main Supervisor
 - Dr. Islam EL-Shaarawy [LinkedIn](https://www.linkedin.com/in/islamelshaarawy/?locale=ar_AE)
 
 **Did you find this page helpful? Consider sharing it 🙌**
+
+<!-- add images of :
+1- Team
+2- Presentation 
+3- System Architecture-->
+
+<!-- Demo Video :
+1- Team
+2- Presentation -->
 

@@ -58,10 +58,15 @@ In this project, we utilized a combination of benchmarking datasets and data col
 This project represents a significant advancement in the field of physical therapy, showcasing the potential of interdisciplinary research and the application of modern technologies to improve healthcare outcomes.
 
 ## Student List
-- Abdallah Hamdy
+- Abdallah Hamdy [LinkedIn](https://www.linkedin.com/in/abdalla-hamdy-39b2b2243/)
 - Alaa Taie
 
 ## Main Supervisor
 - Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
 
 **Did you find this page helpful? Consider sharing it 🙌**
+
+<!-- add images of :
+1- Team
+2- Presentation
+3- Best Paper Certificate -->

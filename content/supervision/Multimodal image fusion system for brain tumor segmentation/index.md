@@ -57,3 +57,8 @@ items:
 
 
 <!-- [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ammar-m-ammar/?originalSubdomain=eg) -->
+
+<!-- add images of :
+1- Team
+2- Presentation
+3- Best Paper Certificate -->
