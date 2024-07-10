@@ -38,7 +38,7 @@ As a member of the control and exam unit, I contributed to maintaining academic 
 - ***Student Guidance and Support:***
 Throughout the year, I provided continuous guidance and support to students during their courses and graduation projects, helping them achieve their academic and professional goals.
 
-![screen reader text](certificate_TAoY.jpg "Certificate of appreciation.")
+![screen reader text](media/certificate_TAoY.jpg "Certificate of appreciation.")
 
 
 <div class="image-slider">
