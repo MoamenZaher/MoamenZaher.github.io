@@ -44,7 +44,7 @@ Throughout the year, I provided continuous guidance and support to students duri
 <div class="image-slider">
   <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISMXA6-3ct2RJB1bv-VnbDAif6MLAn8f7xg&s" alt="Image 1"></div>
   <div><img src="https://msa.edu.eg/msauniversity/cache/resized/43ce65b31ecb41e9c208d3a25b32ea1f.jpg" alt="Image 2"></div>
-  <div><img src="{{% staticref "media/certificate_TAoY.jpg"}} alt="static ref"></div>
+  <!-- <div><img src="{{% staticref "media/certificate_TAoY.jpg"}} alt="static ref"></div> -->
   <div><img src="{{assets/media/certificate_TAoY.jpg}}" alt="assets 3"></div>
   <div><img src="{{static/media/certificate_TAoY.jpg}}" alt="static"></div>
   <div><img src="{{media/certificate_TAoY.jpg}}" alt="media"></div>
