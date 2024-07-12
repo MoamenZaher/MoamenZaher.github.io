@@ -19,9 +19,9 @@ tags:
 ---
 
 <div class="image-slider">
+  <div><img src="post.JPG" /></div>
   <div>{{< video src="posts/TAoY/certificate_TAoY.jpg"  >}}</div>
   <div>{{< video src="posts/TAoY/Me.jpg"  >}}</div>
-  <div><img src="post.JPG" /></div>
   <div>{{< video src="posts/TAoY/TAoY.jpg"  >}}</div>
 
 </div>
