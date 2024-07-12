@@ -17,6 +17,15 @@ tags:
   - Recognition
 
 ---
+
+<div class="image-slider">
+  <div><img src="post.JPG" /></div>
+  <div>{{< video src="posts/TAoY/certificate_TAoY.jpg"  >}}</div>
+  <div>{{< video src="posts/TAoY/Me.jpg"  >}}</div>
+  <div style="width:100%">{{< video src="posts/TAoY/TAoY.jpg"  >}}</div>
+
+</div>
+
 I am honored to announce that I have been selected as the Teaching Assistant of the Year for the Faculty of Computer Sciences at October University for Modern Sciences and Arts (MSA) for the academic year 2023/2024.
 
 ### Achievements During the Year
@@ -41,12 +50,6 @@ Throughout the year, I provided continuous guidance and support to students duri
 
 
 
-<div class="image-slider">
-  <div>{{< video src="posts/TAoY/certificate_TAoY.jpg"  >}}</div>
-  <div>{{< video src="posts/TAoY/Me.jpg"  >}}</div>
-  <div>{{< video src="posts/TAoY/TAoY.jpg"  >}}</div>
-
-</div>
 
 <script type="text/javascript">
   $(document).ready(function(){
