@@ -39,7 +39,7 @@ This year, I successfully published 2 journal publications for my master’s res
 I taught several courses, including Human-Computer Interaction (HCI), Machine Learning, Service-Oriented Architecture, and Software Engineering for senior students. The students' projects from these courses won the best project awards during the faculty day, showcasing their exceptional work and dedication.
 
 - ***Event Organization:***
-I played a key role in organizing several events such as the Faculty Day (Deep Minds) and the International Conference of Intelligent Methods, Systems, and Applications (AN IEEE conference). These events provided valuable platforms for students and professionals to share knowledge and innovations.
+I played a key role in organizing several events such as the Faculty Day (Deep Minds) and the International Conference of Intelligent Methods, Systems, and Applications (an   IEEE conference). These events provided valuable platforms for students and professionals to share knowledge and innovations.
 
 - ***Control and Exam Unit Contributions:***
 As a member of the control and exam unit, I contributed to maintaining academic standards and ensuring the smooth conduct of exams.
