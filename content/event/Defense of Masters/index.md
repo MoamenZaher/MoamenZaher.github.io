@@ -18,12 +18,12 @@ abstract: 'This thesis explores the application of Human Activity Recognition (H
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-20T13:00:00Z'
-date_end: '2024-07-22T15:00:00Z'
+date: '2024-07-31T12:00:00Z'
+date_end: '2024-07-31T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-07-14T09:00:00Z'
 
 authors:
   - admin
