@@ -61,10 +61,10 @@ interests:
   - AI in Healthcare 
 
 education:
-  - area: M.Sc. Software Engineering
+  - area: M.Sc. in Software Engineering
     institution: Faculty of Computers and Artificial Intelligence, Helwan University - Egypt
     date_start: 2020-11-05
-    date_end: 2024-07-15
+    date_end: 2024-07-31
     summary: |
       Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Assoc. Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. Presented papers at 1 IEEE conferences with the contributions being published in 1 Springer journals.
     # button:
@@ -350,5 +350,5 @@ awards:
 
 ## About Me
 
-Moamen is a masters student of software engineering at HCI Lab, Helwan University. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
+Moamen holds a Masters of Science (M.Sc.) in software engineering awarded from the faculty of Computers and Artificial intelligence (FCAI), Helwan University - Egypt. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
 Beside +4 years of academic experience, Moamen has +3 years of industry expierence working as a software engineer.

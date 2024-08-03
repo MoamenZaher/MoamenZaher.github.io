@@ -14,6 +14,7 @@ address:
 
 summary: M.Sc. in Software Engineering Final Thesis Defense.
 
+
 abstract: 'This thesis explores the application of Human Activity Recognition (HAR) in the context of physical rehabilitation exercises, aiming to provide real-time feedback and assessment. The research investigates various machine learning and deep learning techniques, including transfer learning and attention models, to accurately recognize and evaluate physical movements. By utilizing Kinect and RGB cameras, the study ensures accessibility and cost-effectiveness, making advanced rehabilitation technologies more widely available. Through a comparative study of machine learning algorithms, a case study on a newly developed framework for assessing rehabilitation exercises, and an analysis of CNN and RNN algorithms across multiple datasets, the thesis offers comprehensive insights into the effectiveness of different approaches. Additionally, the work includes a study on transfer learning and model fusion techniques to enhance HAR performance. The results contribute to the advancement of real-time monitoring systems, providing valuable support for patients and healthcare professionals in the rehabilitation process.'
 
 # Talk start and end times.
