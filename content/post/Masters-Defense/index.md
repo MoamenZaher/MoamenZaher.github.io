@@ -45,4 +45,4 @@ I would like to express my gratitude to my supervisors, Assoc. Prof. [Ayman Ezza
 - Prof. [Ammar Mohamed](https://www.linkedin.com/in/ammar-mohamed-profile)
  (External Judge)
 
- ## Did you find this page helpful? Consider sharing it 🙌 -->
+ **Did you find this page helpful? Consider sharing it 🙌**
