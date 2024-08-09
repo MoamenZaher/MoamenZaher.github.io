@@ -91,7 +91,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Teaching/Research Assistant
+  - position: Lecturer/Research Assistant
     company_name: October University for Modern Sciences and Arts (MSA)
     company_url: https://msa.edu.eg/
     company_logo: ''
