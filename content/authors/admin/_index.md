@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Teaching/Research Assistant 
+role: Lecturer/Research Assistant 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
