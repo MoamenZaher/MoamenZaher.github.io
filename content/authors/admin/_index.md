@@ -350,5 +350,5 @@ awards:
 
 ## About Me
 
-Moamen holds a Masters of Science (M.Sc.) in software engineering awarded from the faculty of Computers and Artificial intelligence (FCAI), Helwan University - Egypt. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
+Moamen holds a Masters of Science (M.Sc.) in Software Engineering awarded from the Faculty of Computers and Artificial Intelligence (FCAI), Helwan University - Egypt. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
 Beside +4 years of academic experience, Moamen has +3 years of industry expierence working as a software engineer.
