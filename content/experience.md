@@ -97,7 +97,7 @@ sections:
     content:
       text: |
         ## Volunteering
-        - **Jury**:  Invited to <a href="https://ugrf.nu.edu.eg/" target="_blank">The 18th Undergraduate Research Forum (UGRF)</a> at <a href="https://nu.edu.eg/"> Nile University <\a> and honored to be selected as a jury member for the 5th Egyptian Junior Researcher Competition in the Information Technology and Computer Science track (CIS).
+        - **Jury**:  Invited to <a href="https://ugrf.nu.edu.eg/" target="_blank">The 18th Undergraduate Research Forum (UGRF)</a> at <a href="https://nu.edu.eg/"> Nile University </a> and honored to be selected as a jury member for the 5th Egyptian Junior Researcher Competition in the Information Technology and Computer Science track (CIS).
         - **Reviewer**: Volunteered as a reviewer in <a href="http://www.iwacce.org/" target="_blank">The Third International Workshop on Automation, Control and Communication Engineering (IWACCE2024)</a> conference held in Hihhot, China.
         - **Vice Head of The Operations Team**: Volunteered as vice head of <a href="http://imsa.msa.edu.eg/" target="_blank">First and Second conferences of Intelligent Methods, Systems, and Application</a> conference held in Cairo, Egypt.
         - **Event Organizer**: Volunteered as an organizer in the faculty scientific day (<a href="https://deepminds.msa.edu.eg/" target="_blank">Deep Minds</a>) held at October University for Modern Sciences and Arts (MSA) in Cairo, Egypt.
