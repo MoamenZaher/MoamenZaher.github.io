@@ -56,8 +56,9 @@ profiles:
   
 
 interests:
+  - Human Computer Interaction (HCI)
+  - Multimodality
   - Machine Learning
-  - Human Computer Interaction
   - AI in Healthcare 
 
 education:
