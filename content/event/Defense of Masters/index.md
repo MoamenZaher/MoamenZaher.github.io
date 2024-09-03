@@ -44,7 +44,9 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1vmpQCtlkKd8MqK5wzhteUvkDhBz1Li2D/view?usp=sharing'
+url_slides: 'https://docs.google.com/presentation/d/1LI9DoT2TkPCp6LsP3RPD767oS2SvBEOF/edit?usp=sharing&ouid=113004759612573528313&rtpof=true&sd=true'
+
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
