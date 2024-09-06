@@ -1,5 +1,7 @@
 ---
-title: ALl Publications
+title: Publications
+summary: A list of all publications
+
 count: 0
 
 cms_exclude: true
