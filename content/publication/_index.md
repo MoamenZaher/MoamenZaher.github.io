@@ -1,6 +1,6 @@
 ---
-title: Publications
-summary: A list of all publications
+title: List of Publications
+# summary: A list of all publications
 
 count: 0
 
