@@ -32,7 +32,7 @@ tags:
 
 I am honored to announce that our paper "Unveiling Stress: A Comparative Analysis of Multimodal Sensor Fusion Techniques for Predictive Modeling" was awarded best paper award at the 2024 2nd [Intelligent Methods, Systems, and Applications (IMSA)](http://imsa.msa.edu.eg/) conference.
 
-IMSA is an international conference sponsered by IEEE. You can access the paper using the [DOI] (https://doi.org/10.1109/IMSA61967.2024.10652785).
+IMSA is an international conference sponsered by IEEE. You can access the paper using the [DOI](https://doi.org/10.1109/IMSA61967.2024.10652785).
 
 Special thanks to all my teammates :
 - Raghda Essam  [LinkedIn](https://www.linkedin.com/in/raghdaali/)
