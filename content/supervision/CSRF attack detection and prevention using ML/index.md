@@ -30,7 +30,8 @@ CSRF attacks pose a significant threat to web applications by tricking users int
   - The API monitors incoming web requests and analyzes them using the trained machine learning model.
 - The project resulted into a conference publication.
 ## Publications
-- Enhancing Web Security: A Comparative Analysis of Machine Learning Models for CSRF Detection. (Accepted at IMSA [an IEEE Conference] but not published yet)
+- Enhancing Web Security: A Comparative Analysis of Machine Learning Models for CSRF Detection. 2024 Intelligent Methods, Systems, and Applications (IMSA)
+ [DOI](https://doi.org/10.1109/IMSA61967.2024.10652629)
 
 ## Student List
 - Bassem Osama

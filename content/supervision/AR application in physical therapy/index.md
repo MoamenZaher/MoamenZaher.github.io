@@ -52,7 +52,8 @@ In this project, we utilized a combination of benchmarking datasets and data col
 ## Publications
 - Physical Rehabilitation Exercises Classification Using Deep Learning Models. 2024 14th International Conference on Electrical Engineering (ICEENG) [DOI](https://doi.org/10.1109/ICEENG58856.2024.10566467).
 
-- Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. (Accepted at IMSA [an IEEE Conference] but not published yet).
+- Enhancing Physical Therapy through Transformer-Based Models: A Study on Exercise Classification. 2024 Intelligent Methods, Systems, and Applications (IMSA)
+ [DOI](https://doi.org/10.1109/IMSA61967.2024.10652817).
 
 
 This project represents a significant advancement in the field of physical therapy, showcasing the potential of interdisciplinary research and the application of modern technologies to improve healthcare outcomes.
