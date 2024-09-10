@@ -51,6 +51,8 @@ profiles:
     url: https://orcid.org/0009-0004-8560-4563
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=58283568600
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Moamen-Zaher
   - icon: brands/instagram
     url: https://www.instagram.com/moamen.zaher
   
