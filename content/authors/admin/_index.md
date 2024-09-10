@@ -49,6 +49,8 @@ profiles:
     url: https://scholar.google.com/citations?user=XwaJSLwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-8560-4563
+  - icon: academicons/clarivate
+    url: https://www.webofscience.com/wos/author/record/LFR-9911-2024
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=58283568600
   - icon: academicons/researchgate
