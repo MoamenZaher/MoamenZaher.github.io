@@ -4,7 +4,7 @@ title: 'Enhancing Road Safety: Leveraging CNN-LSTM and Bi-LSTM Models for Advanc
 authors:
 - Ahmed Diaaeldin
 - Moamen Zaher
-date: '2024-09-06'
+date: '2024-09-05'
 publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
