@@ -26,4 +26,9 @@ abstract: Recognizing the importance of driver behavior is essential for enhanci
 tags:
 - Deep learning;Technological innovation;Predictive models;Propulsion;Road safety;Data
   models;Vehicle dynamics;LSTM;CNN-LSTM;Bi-LSTM;Driver Behavior;Sensors
+links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652785
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652785
 ---

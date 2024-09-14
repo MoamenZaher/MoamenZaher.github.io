@@ -15,4 +15,7 @@ abstract: Globally, the number one cause of death for women is breast cancer, wh
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/abstract/document/10217501
+- name: DOI
+  url: https://doi.org/10.1109/IMSA58542.2023.10217501
+
 ---

@@ -11,7 +11,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652665
+# doi: 10.1109/IMSA61967.2024.10652665
 abstract: Untrimmed video analysis presents a complex challenge due to diverse movements
   across different domains, crucial for applications like action recognition, surveillance,
   and human-computer interaction. This study aims to compare the effectiveness of
@@ -30,4 +30,8 @@ tags:
 - Human computer interaction;Visualization;Adaptive systems;Motion segmentation;Surveillance;Machine
   learning;Streaming media;Untrimmed video analysis;Optical flow;Frame differencing;$1
   Unistroke Recognizer;Movement segmentation;Cross-domain analysis
+links:
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652665
+
 ---

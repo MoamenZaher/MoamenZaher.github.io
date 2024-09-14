@@ -12,7 +12,7 @@ publishDate: '2024-06-25T17:39:33.786847Z'
 publication_types:
 - paper-conference
 publication: '*2024 14th International Conference on Electrical Engineering (ICEENG)*'
-doi: 10.1109/ICEENG58856.2024.10566467
+# doi: 10.1109/ICEENG58856.2024.10566467
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10566467
@@ -20,4 +20,10 @@ abstract: Physical rehabilitation plays pivotal role for restoring functionality
 tags:
 - Solid modeling;Accuracy;Three-dimensional displays;Surgery;Skeleton;Pattern recognition;Object
   recognition;Physical Rehabilitation;LSTM;CNN-LSTM;GRU
+links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10566467
+- name: DOI
+  url: https://doi.org/10.1109/ICEENG58856.2024.10566467
+
 ---

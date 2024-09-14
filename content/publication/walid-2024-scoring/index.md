@@ -16,5 +16,7 @@ publication: '*2024 6th International Conference on Computing and Informatics (I
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/abstract/document/10485076/
+- name: DOI
+  url: https://doi.org/10.1109/ICCI61671.2024.10485076
 
 ---

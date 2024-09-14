@@ -1,6 +1,5 @@
 ---
-title: 'Enhancing Brain Tumor Classification: A Comparative Study of Single-Model
-  and Multi-Model Fusion Approaches'
+title: 'Enhancing Brain Tumor Classification: A Comparative Study of Single-Model and Multi-Model Fusion Approaches'
 authors:
 - Mariam Ahmed
 - Moamen Zaher
@@ -10,7 +9,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652770
+# doi: 10.1109/IMSA61967.2024.10652770
 abstract: "Brain tumors are the leading cause of death world-wide. Deep learning has
   been successful in previous tasks like classification. However, it's being limited
   by the reliance on a single imaging modality which isn't enough, where a single
@@ -30,4 +29,9 @@ abstract: "Brain tumors are the leading cause of death world-wide. Deep learning
 tags:
 - Deep learning;Computer vision;Accuracy;Brain modeling;Transformers;Wavelet analysis;Discrete
   wavelet transforms;Multimodal;Model fusion;Image fusion;pre-trained;Deep Learning
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652770
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652770
+
 ---

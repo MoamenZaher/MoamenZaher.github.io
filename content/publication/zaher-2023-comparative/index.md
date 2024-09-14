@@ -16,5 +16,7 @@ abstract: Rehabilitation exercises reduce the demand for healthcare services ove
 links:
 - name: Paper Link
   url: https://www.researchsquare.com/article/rs-2821786/latest
+- name: DOI
+  url: https://doi.org/10.21203/rs.3.rs-2821786/v1
 
 ---

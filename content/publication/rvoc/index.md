@@ -9,7 +9,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652781
+# doi: 10.1109/IMSA61967.2024.10652781
 abstract: System surveillance involves the continuous monitoring and analysis of organizational
   data to ensure security and operational efficiency. This proactive approach aids
   in detecting anomalies, threats, and performance issues, thereby safeguarding sensitive
@@ -30,4 +30,9 @@ abstract: System surveillance involves the continuous monitoring and analysis of
 tags:
 - Training;Surveillance;Clustering algorithms;Object detection;Solids;User experience;Object
   recognition
+links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652781
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652781
 ---

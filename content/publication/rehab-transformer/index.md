@@ -13,7 +13,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652817
+# doi: 10.1109/IMSA61967.2024.10652817
 abstract: Physical therapy is crucial for recovering and enhancing the physical functions
   of patients. It also improves the recovery process after injuries, surgeries, or
   diseases. Home-based rehabilitation has become essential in healthcare, particularly
@@ -29,4 +29,9 @@ abstract: Physical therapy is crucial for recovering and enhancing the physical 
 tags:
 - Deep learning;Accuracy;Surgery;Transformers;Cameras;Human activity recognition;Monitoring;Rehabilitation;HART;Vision
   transformers;LSTM;CNN-LSTM;CNN-GRU;GRU;BiLSTM
+links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652817
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652817
 ---

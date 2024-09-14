@@ -12,7 +12,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652629
+# doi: 10.1109/IMSA61967.2024.10652629
 abstract: This paper investigates the application of utilizing machine learning techniques
   to enhance Cross-Site Request Forgery (CSRF) detection in web applications. CSRF
   remains a critical security concern, consistently ranking among the top vulnerabilities
@@ -29,4 +29,10 @@ abstract: This paper investigates the application of utilizing machine learning 
 tags:
 - Analytical models;Machine learning algorithms;Forestry;Boosting;Forgery;Application
   security;Classification algorithms;CSRF;CatBoost;XGBoost;Extra Tree;Random Forest;LightGBM
+links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652629
+- name: DOI
+  url: https://doi.org/10.1109/IMSA61967.2024.10652629
+
 ---
