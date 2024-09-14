@@ -62,7 +62,7 @@ sections:
         
         You can view all training certficiates on <a href="https://drive.google.com/drive/folders/1TP5jjlEKbFx8otQKbliXy1CUfm-TqAxh?usp=sharing" style="color:rgb(var(--color-primary-400)/var(--tw-text-opacity));text-decoration:underline"> Google Drive </a>
         
-        - **Certified Peer Reviewer Course**: Course provided by ELSEVIER  <a href="https://researcheracademy.elsevier.com/"> Research Academy </a>. (Sep, 2024)
+        - **Certified Peer Reviewer Course**: Course provided by <a href="https://researcheracademy.elsevier.com/"> ELSEVIER Research Academy </a>. (Sep, 2024)
         - **International Research and Publication**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
 
         - **Research Ethics**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
