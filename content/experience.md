@@ -21,7 +21,7 @@ sections:
   - block: resume-awards
     content:
       title: Courses
-      text:       You can view all the certficiates on <a href="https://drive.google.com/drive/folders/1TP5jjlEKbFx8otQKbliXy1CUfm-TqAxh?usp=sharing" style="color:rgb(var(--color-primary-400)/var(--tw-text-opacity));font-weight:bold;text-decoration:underline;}">Google Drive</a>
+      text:       You can view all the certficiates on <a href="https://drive.google.com/drive/folders/1TP5jjlEKbFx8otQKbliXy1CUfm-TqAxh?usp=sharing" style="color:rgb(var(--color-primary-400)/var(--tw-text-opacity));font-weight:bold;text-decoration:underline;}"> Google Drive </a>
 
       username: admin
   - block: collection
