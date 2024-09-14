@@ -24,8 +24,18 @@ abstract: Recognizing the importance of driver behavior is essential for enhanci
   affirm the potential of deep learning technologies in crafting sophisticated predictive
   safety systems, paving the way for future innovations.
 tags:
-- Deep learning;Technological innovation;Predictive models;Propulsion;Road safety;Data
-  models;Vehicle dynamics;LSTM;CNN-LSTM;Bi-LSTM;Driver Behavior;Sensors
+- Deep learning
+- Technological innovation
+- Predictive models
+- Propulsion
+- Road safety
+- Data models
+- Vehicle dynamics
+- LSTM
+- CNN-LSTM
+- Bi-LSTM
+- Driver Behavior
+- Sensors
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10652785

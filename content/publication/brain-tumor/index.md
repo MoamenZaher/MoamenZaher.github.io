@@ -34,5 +34,10 @@ links:
   url: https://ieeexplore.ieee.org/document/10652770
 - name: DOI
   url: https://doi.org/10.1109/IMSA61967.2024.10652770
-
+tags: 
+- Deep learning
+- Computer vision
+- Accuracy
+- Brain modeling
+- Transformers
 ---

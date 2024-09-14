@@ -18,5 +18,11 @@ links:
   url: https://ieeexplore.ieee.org/abstract/document/10485076/
 - name: DOI
   url: https://doi.org/10.1109/ICCI61671.2024.10485076
-
+tags: 
+- Geometry
+- Emotion recognition
+- Visualization
+- Recurrent neural networks
+- Convolutional neural networks
+- Mel frequency cepstral coefficient
 ---

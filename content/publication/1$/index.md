@@ -27,9 +27,21 @@ abstract: Untrimmed video analysis presents a complex challenge due to diverse m
   machine learning, and multimedia processing, and opening avenues for enhanced applications
   in diverse domains.
 tags:
-- Human computer interaction;Visualization;Adaptive systems;Motion segmentation;Surveillance;Machine
-  learning;Streaming media;Untrimmed video analysis;Optical flow;Frame differencing;$1
-  Unistroke Recognizer;Movement segmentation;Cross-domain analysis
+- Human computer interaction
+- Visualization
+- Adaptive systems
+- Motion segmentation
+- Surveillance
+- Machine
+  learning
+- Streaming media
+- Untrimmed video analysis
+- Optical flow
+- Frame differencing
+- $1
+  Unistroke Recognizer
+- Movement segmentation
+- Cross-domain analysis
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10652665

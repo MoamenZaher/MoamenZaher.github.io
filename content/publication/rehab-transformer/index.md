@@ -27,11 +27,24 @@ abstract: Physical therapy is crucial for recovering and enhancing the physical 
   with 91.71%. Furthermore, the human activity recognition transformer (HART) achieved
   an accuracy score of 91.96%
 tags:
-- Deep learning;Accuracy;Surgery;Transformers;Cameras;Human activity recognition;Monitoring;Rehabilitation;HART;Vision
-  transformers;LSTM;CNN-LSTM;CNN-GRU;GRU;BiLSTM
+- Deep learning
+- Accuracy
+- Surgery
+- Transformers
+- Cameras
+- Human activity recognition
+- Monitoring
+- Rehabilitation
+- HART
+- Vision transformer
+- LSTM
+- CNN-LSTM
+- CNN-GRU
+- GRU
+- BiLSTM
 links:
 - name: Paper Link
-  url: https://ieeexplore.ieee.org/document/10652817
+  url: https://ieeexplore.ieee.org/document/10652785
 - name: DOI
   url: https://doi.org/10.1109/IMSA61967.2024.10652817
 ---

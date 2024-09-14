@@ -28,8 +28,13 @@ abstract: System surveillance involves the continuous monitoring and analysis of
   RVOC's efficacy is evidenced by its Normalized Mutual Information (NMI) score of
   51% in tests with multilabel car and color datasets.
 tags:
-- Training;Surveillance;Clustering algorithms;Object detection;Solids;User experience;Object
-  recognition
+- Training
+- Surveillance
+- Clustering algorithms
+- Object detection
+- Solids
+- User experience
+- Object recognition
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10652781

@@ -27,8 +27,19 @@ abstract: This paper investigates the application of utilizing machine learning 
   and 1.16% in F1-score. These results highlight the potential of ensemble models
   for robust CSRF detection in web security.
 tags:
-- Analytical models;Machine learning algorithms;Forestry;Boosting;Forgery;Application
-  security;Classification algorithms;CSRF;CatBoost;XGBoost;Extra Tree;Random Forest;LightGBM
+- Analytical models
+- Machine learning algorithms
+- Forestry
+- Boosting
+- Forgery
+- Application security
+- Classification algorithms
+- CSRF
+- CatBoost
+- XGBoost
+- Extra Tree
+- Random Forest
+- LightGBM
 links:
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10652629

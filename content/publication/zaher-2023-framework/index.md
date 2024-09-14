@@ -18,6 +18,12 @@ links:
   url: https://ieeexplore.ieee.org/abstract/document/10217392/
 - name: DOI
   url: https://doi.org/10.1109/IMSA58542.2023.10217392
+tags:
+- Extra Tree
+- Fast Correlation Based Filter (FCBF)
+- Physical Rehabilitation
+- DTW
+- RGB
 
 ---
 #### Citations
