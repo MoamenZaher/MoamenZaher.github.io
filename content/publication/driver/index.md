@@ -9,7 +9,7 @@ publishDate: '2024-07-13T09:22:24.655742Z'
 publication_types:
 - paper-conference
 publication: '*2024 Intelligent Methods, Systems, and Applications (IMSA)*'
-doi: 10.1109/IMSA61967.2024.10652785
+# doi: 10.1109/IMSA61967.2024.10652785
 abstract: Recognizing the importance of driver behavior is essential for enhancing
   road safety and optimizing traffic management systems. This study employs advanced
   deep learning techniques, specifically CNN-LSTM and Bi-LSTM models, to refine the
