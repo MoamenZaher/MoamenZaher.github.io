@@ -59,6 +59,7 @@ sections:
       text: |
         ## List of Trainings
         You can view all certficiates on [Google Drive](https://drive.google.com/drive/folders/1TP5jjlEKbFx8otQKbliXy1CUfm-TqAxh?usp=sharing)
+        
         - **Certified Peer Reviewer Course**: Course provided by ELSEVIER [Research Academy](https://researcheracademy.elsevier.com/). (Sep, 2024)
         - **International Research and Publication**: Training provided by the Learning and Development Section at October for Modern Sciences and Arts (MSA) university. (2024)
 
