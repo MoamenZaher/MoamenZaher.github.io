@@ -29,6 +29,7 @@ abstract: "Brain tumors are the leading cause of death world-wide. Deep learning
 tags:
 - Deep learning;Computer vision;Accuracy;Brain modeling;Transformers;Wavelet analysis;Discrete
   wavelet transforms;Multimodal;Model fusion;Image fusion;pre-trained;Deep Learning
+links: 
 - name: Paper Link
   url: https://ieeexplore.ieee.org/document/10652770
 - name: DOI
