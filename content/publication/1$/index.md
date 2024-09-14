@@ -31,6 +31,8 @@ tags:
   learning;Streaming media;Untrimmed video analysis;Optical flow;Frame differencing;$1
   Unistroke Recognizer;Movement segmentation;Cross-domain analysis
 links:
+- name: Paper Link
+  url: https://ieeexplore.ieee.org/document/10652665
 - name: DOI
   url: https://doi.org/10.1109/IMSA61967.2024.10652665
 
