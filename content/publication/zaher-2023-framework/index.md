@@ -18,3 +18,10 @@ links:
   url: https://ieeexplore.ieee.org/abstract/document/10217392/
 
 ---
+#### The paper 5 has citations: 
+- Yasser, A., & Solayman, M. M. (2024, July). [Computer-Based Machine Learning Model for Supporting and Healing ACL Injury for Athletes](https://ieeexplore.ieee.org/abstract/document/10652749). In [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding) (pp. 366-371). IEEE.
+
+- Zaher, M., Ghoneim, A. S., Abdelhamid, L., & Atia, A. (2024). [Unlocking the potential of RNN and CNN models for accurate rehabilitation exercise classification on multi-datasets](https://link.springer.com/article/10.1007/s11042-024-19092-0). [Multimedia Tools and Applications](https://link.springer.com/journal/11042), 1-41.
+- Zaher, M., Ghoneim, A., Abdelhamid, L., & Atia, A. (2024). [Artificial Intelligence Techniques in Enhancing Home-Based Rehabilitation: A Survey](https://fcihib.journals.ekb.eg/article_355604.html?lang=en). [FCI-H Informatics Bulletin](https://fcihib.journals.ekb.eg/?lang=en), 6(2), 16-30.
+- Taie, A., Hamdy, A., Zaher, M., Al-Emrany, A. M., Ahmed, O. S. M., & Atia, A. (2024, May). [Physical Rehabilitation Exercises Classification Using Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10566467). In [2024 14th International Conference on Electrical Engineering (ICEENG)](https://ieeexplore.ieee.org/xpl/conhome/10566277/proceeding) (pp. 181-183). IEEE.
+- Hamdy, A., Taie, A., Zaher, M., Al-Emrany, A. M., Ahmed, O. S. M., & Atia, A. (2024, July). [Enhancing Physical Therapy Through Transformer-Based Models: A Study on Exercise Classification](https://ieeexplore.ieee.org/abstract/document/10652817). In [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding) (pp. 366-371). IEEE.
