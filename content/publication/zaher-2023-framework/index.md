@@ -28,7 +28,7 @@ tags:
 ---
 #### Citations
 
-The paper 5 has citations: 
+The paper has 5 citations: 
 
 - Yasser, A., & Solayman, M. M. (2024, July). [Computer-Based Machine Learning Model for Supporting and Healing ACL Injury for Athletes](https://ieeexplore.ieee.org/abstract/document/10652749). In [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding) (pp. 366-371). IEEE.
 
