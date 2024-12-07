@@ -29,8 +29,8 @@ tags:
 links:
 - name: Paper Link
   url: https://fcihib.journals.ekb.eg/article_355604.html?lang=en
-- name: PDF
-  url: https://fcihib.journals.ekb.eg/article_355604_5e1fffb346badcec53a709338b797cac.pdf
 - name: DOI
   url: https://doi.org/10.21608/fcihib.2024.280269.1113
+
+url_pdf: https://fcihib.journals.ekb.eg/article_355604_5e1fffb346badcec53a709338b797cac.pdf
 ---

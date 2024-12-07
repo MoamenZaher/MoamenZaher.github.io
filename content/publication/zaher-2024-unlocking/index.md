@@ -26,8 +26,7 @@ tags:
 links:
 - name: Paper Link
   url: https://link.springer.com/article/10.1007/s11042-024-19092-0
-- name: PDF
-  url: https://link.springer.com/content/pdf/10.1007/s11042-024-19092-0.pdf
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11042-024-19092-0.pdf
 
 image:
   caption: 'Image credit: [**Unsplash**](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11042-024-19092-0/MediaObjects/11042_2024_19092_Fig2_HTML.png?as=webp)'
