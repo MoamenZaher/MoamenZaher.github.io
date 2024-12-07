@@ -71,7 +71,7 @@ education:
     date_start: 2020-11-05
     date_end: 2024-07-31
     summary: |
-      Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Assoc. Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. The paper has resulted into several publication. Presented a paper at an IEEE conferences and two published journal publications one of them published at Journal of Multimedia Tools and Applications (MTAP) publushed by Springer. Moreover, There're two more journal publications under review in reputable journals. 
+      Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. The paper has resulted into several publication. Presented a paper at an IEEE conferences and three published journal publications one of them published at Journal of Multimedia Tools and Applications (MTAP) publushed by Springer, one published at Journal of Computers in Biology and Medicine (CiBM). Moreover, There're one more journal publications under review in reputable journals. 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -96,11 +96,11 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Lecturer/Research Assistant
+  - position: Assistant Lecturer
     company_name: October University for Modern Sciences and Arts (MSA)
-    company_url: https://msa.edu.eg/
+    company_url: 'https://msa.edu.eg/'
     company_logo: ''
-    date_start: 2020-03-02
+    date_start: '2024-10-16'
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -111,6 +111,13 @@ work:
       - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
       - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects.
       - Engaged in multiple collaborative projects across different academic disciplines, facilitating teamwork among faculties such as Arts, Physical Therapy, and Dentistry.
+
+  - position: Teaching/Research Assistant
+    company_name: October University for Modern Sciences and Arts (MSA)
+    company_url: https://msa.edu.eg/
+    company_logo: ''
+    date_start: 2020-03-02
+    date_end: '2024-10-15'
   - position: Senior Software Engineer
     company_name: iStudy
     # company_url: ''
@@ -150,15 +157,15 @@ skills:
       - name: Object-Oriented Programming
         description: ''
         percent: 95
-        icon: circle-stack
+        icon: custom/oop
       - name: Data Structures
         description: ''
         percent: 75
-        icon: circle-stack
+        icon: custom/stack
       - name: Databases
         description: 'MySQL, SQLite, MongoDB, CouchBaseDB'
         percent: 70
-        icon: circle-stack 
+        icon: custom/db 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -166,22 +173,19 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: custom/football
       - name: Gym
         description: ''
         percent: 90
-        icon: person-running
-        icon_pack: fab
-      - name: Run
+        icon: custom/gym
+      - name: Running
         description: ''
         percent: 80
-        icon: person-running
-        icon_pack: fas
+        icon: custom/runner
       - name: Reading
         description: ''
         percent: 80
-        icon: person-running
-        icon_pack: far
+        icon: custom/reading
 
 languages:
   - name: Arabic
