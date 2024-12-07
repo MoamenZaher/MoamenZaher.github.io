@@ -66,7 +66,7 @@ The project was awarded the  second-best graduation project at the Faculty of Co
 - Mostafa Ameen [LinkedIn](https://www.linkedin.com/in/mostafa-ameen-72511a1bb/)
 
 ## Main Supervisor
-- Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
+- Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
  
  **Did you find this page helpful? Consider sharing it 🙌**
 

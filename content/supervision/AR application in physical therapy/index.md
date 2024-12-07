@@ -63,7 +63,7 @@ This project represents a significant advancement in the field of physical thera
 - Alaa Taie
 
 ## Main Supervisor
-- Asoc. Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
+- Prof. Ayman Ezzat [LinkedIn](https://www.linkedin.com/in/ayman4/)
 
 **Did you find this page helpful? Consider sharing it 🙌**
 

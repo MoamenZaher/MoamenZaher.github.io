@@ -66,12 +66,12 @@ projects:
   - example
 ---
 **Under Supervision of** :
-- Assoc. Prof. [Ayman Ezzat](https://www.linkedin.com/in/ayman4/)
+- Prof. [Ayman Ezzat](https://www.linkedin.com/in/ayman4/)
 - Dr. [Amr Ghoniem](https://www.linkedin.com/in/amrghoneim)
 - Dr. [Laila Abdelhamid](https://www.linkedin.com/in/laila-abdelhamid-0714172b2/)
 
 **Jury Members** :
-- Assoc. Prof. [Ayman Ezzat](https://www.linkedin.com/in/ayman4/) (Supervisor and Judge)
+- Prof. [Ayman Ezzat](https://www.linkedin.com/in/ayman4/) (Supervisor and Judge)
 - Prof. [Doaa Elzanfaly](https://www.linkedin.com/in/doaa-elzanfaly-a1065867/) (Internal Judge)
 - Prof. [Ammar Mohamed](https://www.linkedin.com/in/ammar-mohamed-profile)
  (External Judge)
