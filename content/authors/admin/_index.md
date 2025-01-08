@@ -42,7 +42,7 @@ profiles:
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-     url: https://github.com/MoamenZaher/
+    url: https://github.com/MoamenZaher/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/moamenzaher/
   - icon: academicons/google-scholar
