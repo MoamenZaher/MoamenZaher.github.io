@@ -35,7 +35,7 @@ image:
 
 ---
 #### Citations
-This is my top-cited paper with 8 citations.
+This is my top-cited paper with 8 citations. 
 
 ##### *Cited by others*
 - A. Ashraf et al., (2025). [A Novel Telerehabilitation System for Physical Exercise Monitoring in Elderly Healthcare](http://dx.doi.org/10.1109/ACCESS.2025.3526710). [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
