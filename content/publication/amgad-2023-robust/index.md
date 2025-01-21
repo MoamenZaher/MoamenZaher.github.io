@@ -27,3 +27,16 @@ links:
   url: https://doi.org/10.1109/IMSA58542.2023.10217501
 
 ---
+#### Citations
+
+The paper has 5 citations:
+- Manalı, D., Demirel, H., & Eleyan, A. (2024). [Deep Learning Based Breast Cancer Detection Using Decision Fusion](https://doi.org/10.3390/computers13110294). [Computers](https://www.mdpi.com/journal/computers).
+
+- Makram, Manal, and Ammar Mohammed. (2024). [Deep learning approach for hepatic lesion detection](https://doi.org/10.1109/IMSA61967.2024.10652800). [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding). IEEE.
+
+- Khourdifi, Youness, et al. (2024). [Early Breast Cancer Detection Based on Deep Learning: An Ensemble Approach Applied to Mammograms](https://doi.org/10.3390/biomedinformatics4040127). [BioMedInformatics](https://www.mdpi.com/journal/biomedinformatics).
+
+- Amgad, Nadeen, et al. (2024). [Enhancing Thyroid Cancer Diagnosis through a Resilient Deep Learning Ensemble Approach](https://doi.org/10.1109/ICCI61671.2024.10485147). [2024 6th International Conference on Computing and Informatics (ICCI)](https://ieeexplore.ieee.org/xpl/conhome/10483564/proceeding). IEEE.
+
+- Mohamed, Tukka, et al. (2024). [Enhancing Brain Tumor Classification: Ensemble Approaches with Prediction and Feature Fusions](https://doi.org/10.1109/IMSA61967.2024.10652713). [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding). IEEE.
+

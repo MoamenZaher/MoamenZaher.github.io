@@ -28,7 +28,8 @@ tags:
 ---
 #### Citations
 
-The paper has 5 citations: 
+The paper has 6 citations: 
+- Zaher, M., Ghoneim, A. S., Abdelhamid, L., & Atia, A. (2025). [Fusing CNNs and attention-mechanisms to improve real-time indoor Human Activity Recognition for classifying home-based physical rehabilitation exercises](http://dx.doi.org/10.1016/j.compbiomed.2024.109399) [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), 184, 109399.
 
 - Yasser, A., & Solayman, M. M. (2024, July). [Computer-Based Machine Learning Model for Supporting and Healing ACL Injury for Athletes](https://ieeexplore.ieee.org/abstract/document/10652749). In [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding) (pp. 366-371). IEEE.
 

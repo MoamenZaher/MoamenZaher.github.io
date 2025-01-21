@@ -35,17 +35,25 @@ image:
 
 ---
 #### Citations
-This is my top-cited paper with 8 citations. 
+This is my top-cited paper with 9 citations.
 
 ##### *Cited by others*
+- Mengmeng Wang (2025). [Applications of deep learning techniques for predicting dynamic service location enhanced scheduling algorithm in foggy computing environment](https://doi.org/10.1016/j.aej.2024.12.092). [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)
+
 - A. Ashraf et al., (2025). [A Novel Telerehabilitation System for Physical Exercise Monitoring in Elderly Healthcare](http://dx.doi.org/10.1109/ACCESS.2025.3526710). [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
+
 - Yao, H. (2024). [An IoT-Based Injury Prediction and Sports Rehabilitation for Martial Art Students in Colleges Using RNN Model](https://link.springer.com/article/10.1007/s11036-024-02410-z). [Mobile Networks and Applications](https://link.springer.com/journal/11036), 1-18.
+
 -  Mishra, N. et al., (2024). [Harnessing an AI-Driven Analytics Model to Optimize Training and Treatment in Physical Education for Sports Injury Prevention](https://dl.acm.org/doi/10.1145/3678726.3678740). [ICEMT '24: Proceedings of the 2024 8th International Conference on Education and Multimedia Technology](https://dl.acm.org/doi/proceedings/10.1145/3678726) (pp. 309-315). ACM. 
+
 - Zainuddin, A. A., Mohd Dhuzuki, N. H., Puzi, A. A., Johar, M. N., & Yazid, M. (2024). [Calibrating Hand Gesture Recognition for Stroke Rehabilitation Internet-of-Things (RIOT) Using MediaPipe in Smart Healthcare Systems](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=ijacsa&SerialNo=56). [International Journal of Advanced Computer Science & Applications](https://thesai.org/Publications/IJACSA), 15(7).
+
 - Jubair, H., & Mehenaz, M. (2024). [Smartwatch-Assisted Exercise Prescription: Utilizing Machine Learning Algorithms for Personalized Workout Recommendations and Monitoring: A review](https://www.researchsquare.com/article/rs-4871091/v1). Preprint
 
 
 ##### *Self-Citation*
 - Zaher, M., Ghoneim, A. S., Abdelhamid, L., & Atia, A. (2025). [Fusing CNNs and attention-mechanisms to improve real-time indoor Human Activity Recognition for classifying home-based physical rehabilitation exercises](http://dx.doi.org/10.1016/j.compbiomed.2024.109399) [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), 184, 109399.
+
 - Eldien, N. A. S., Ali, R. E., Ezzeldin, M., & Zaher, M. (2024, July). [Unveiling Stress: A Comparative Analysis of Multimodal Sensor Fusion Techniques for Predictive Modeling](https://ieeexplore.ieee.org/abstract/document/10652655). In [2024 Intelligent Methods, Systems, and Applications (IMSA)](https://ieeexplore.ieee.org/xpl/conhome/10651578/proceeding) (pp. 556-562). IEEE.
+
 - Zaher, M., Ghoneim, A., Abdelhamid, L., & Atia, A. (2024). [Artificial Intelligence Techniques in Enhancing Home-Based Rehabilitation: A Survey](https://fcihib.journals.ekb.eg/article_355604.html?lang=en). [FCI-H Informatics Bulletin](https://fcihib.journals.ekb.eg/?lang=en), 6(2), 16-30.
