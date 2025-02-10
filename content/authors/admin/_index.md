@@ -114,7 +114,7 @@ work:
     date_start: '2025-02-03'
     date_end: ''
     summary: |
-      As a Junior Researcher, My research areas include Human-Computer Interaction (HCI) and Machine Learning, contributing to projects involving multimodal data fusion and the integration of physiological and brain signals. In addition to my research , I have Teaching responsibilities.
+      As a Junior Researcher, My research areas include Human-Computer Interaction (HCI) and Machine Learning, contributing to projects involving multimodal data fusion and the integration of physiological and brain signals. In addition to my research, I have Teaching responsibilities.
     button: 
       text: 'View Researcher Profile on LUT'
       url: 'https://research.lut.fi/converis/portal/detail/Person/24606729?auxfun=&lang=en_GB'
