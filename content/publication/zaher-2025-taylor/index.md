@@ -15,7 +15,12 @@ publication: '*<a href="https://www.tandfonline.com/journals/tjit20">Journal of 
 # doi: 10.1080/24751839.2025.2454053
 abstract: Rehabilitation is crucial for individuals recovering from injuries or illnesses. It combines medical knowledge, therapy, and technology to improve health and independence. However, a global shortage of physiotherapists makes it challenging to provide adequate rehabilitation services. Current rehabilitation research often lacks advanced computational techniques to automate exercise assessment, relying heavily on time-consuming and costly in-person sessions. This study uses computer vision and classical machine learning (ML) to monitor and evaluate physical rehabilitation exercises using skeletal data. It compares five feature extraction approaches, six feature ranking techniques, and thirteen ML algorithms to identify the most influential features for accurate exercise classification using benchmark datasets (UI-PRMD and KIMORE). The performances of feature ranking algorithms–X2, ReliefF, Gini Decrease, FCBF, Information Gain, and Information Gain Ratio–were examined alongside ML algorithms such as SVMs, RFs, KNN, LDA, and lightGBM, amongst others. ReliefF with an Extra-Tree demonstrated superior performance (classification accuracy of 99.94%) compared to state-of-the-art studies on the UI-PRMD (a 4.4% improvement). However, FCBF, alongside an Extra-Tree, demonstrated robust performance across diverse datasets, achieving 99.64% on UIPRMD (the second-best result) and 81.85% on KIMORE (the highest accuracy reported compared to state-of-the-art studies). FCBF attained robust results together with the various classifiers, averaging 92.65%.
 
-
+tags:
+- Exercise classification
+- Feature Ranking
+- Kinect
+- Physical Rehabilitation
+- Machine Learning
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/24751839.2025.2454053?src=exp-la#abstract
