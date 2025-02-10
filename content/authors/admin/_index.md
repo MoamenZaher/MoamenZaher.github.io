@@ -69,7 +69,7 @@ interests:
 
 education:
   - area: Ph.D. in Software Engineering
-    institution: LUT School of Engineering Sciences, Finland
+    institution: LUT School of Engineering Sciences - Finland
     date_start: 2025-02-03
     summary: |
       I am currently pursuing my PhD at LUT University, focusing on Contextual User Modeling and Affective Recommender Systems. Leveraging advancements in machine learning, computer vision, and human-computer interaction (HCI). 
@@ -108,7 +108,7 @@ education:
 work:
 
   - position: Junior Researcher
-    company_name: LUT School of Engineering Sciences, Finland
+    company_name: LUT School of Engineering Sciences - Finland
     company_url: 'https://lut.fi/'
     # company_logo: ''
     date_start: '2025-02-03'
@@ -133,7 +133,9 @@ work:
       - Served as a Faculty Ambassador, representing the faculty and promoting its programs and initiatives.
       - Contributed as a vital member of the Graduation Project Committee, offering guidance and assessment to senior year students to ensure the successful completion of their graduation projects.
       - Engaged in multiple collaborative projects across different academic disciplines, facilitating teamwork among faculties such as Arts, Physical Therapy, and Dentistry.
-
+    button: 
+      text: 'View Profile on MSA'
+      url: 'https://msa.edu.eg/msauniversity/faculties/computer-science/lecturer-assistants/'
   - position: Teaching/Research Assistant
     company_name: October University for Modern Sciences and Arts (MSA)
     company_url: https://msa.edu.eg/
