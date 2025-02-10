@@ -61,16 +61,18 @@ profiles:
 
 interests:
   - Human Computer Interaction (HCI)
+  - Affective Computing
+  - Recommender Systems
   - Multimodality
   - Machine Learning
-  - AI in Healthcare 
+  - Wearables 
 
 education:
   - area: Ph.D. in Software Engineering
     institution: LUT School of Engineering Sciences, Finland
     date_start: 2025-02-03
     summary: |
-      Thesis focus on user modeling based on Physiological data.
+      I am currently pursuing my PhD at LUT University, focusing on Contextual User Modeling and Affective Recommender Systems. Leveraging advancements in machine learning, computer vision, and human-computer interaction (HCI). 
     button: 
       text: 'View profile on LUT'
       url: 'https://www.lut.fi/en/profiles/moamen-atia'
