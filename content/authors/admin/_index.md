@@ -106,6 +106,18 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+
+  - position: Junior Researcher
+    company_name: LUT School of Engineering Sciences, Finland
+    company_url: 'https://lut.fi/'
+    # company_logo: ''
+    date_start: '2025-02-03'
+    date_end: ''
+    summary: |
+      As a Junior Researcher, My research areas include Human-Computer Interaction (HCI) and Machine Learning, contributing to projects involving multimodal data fusion and the integration of physiological and brain signals. In addition to my research , I have Teaching responsibilities.
+    button: 
+      text: 'View Researcher Profile on LUT'
+      url: 'https://research.lut.fi/converis/portal/detail/Person/24606729?auxfun=&lang=en_GB'
   - position: Assistant Lecturer
     company_name: October University for Modern Sciences and Arts (MSA)
     company_url: 'https://msa.edu.eg/'
