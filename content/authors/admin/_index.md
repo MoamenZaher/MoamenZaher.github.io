@@ -66,6 +66,14 @@ interests:
   - AI in Healthcare 
 
 education:
+  - area: Ph.D. in Software Engineering
+    institution: LUT School of Engineering Sciences, Finland
+    date_start: 2025-02-03
+    summary: |
+      Thesis focus on user modeling based on Physiological data.
+    button: 
+      text: 'View profile on LUT'
+      url: 'https://www.lut.fi/en/profiles/moamen-atia'
   - area: M.Sc. in Software Engineering
     institution: Faculty of Computers and Artificial Intelligence, Helwan University - Egypt
     date_start: 2020-11-05
