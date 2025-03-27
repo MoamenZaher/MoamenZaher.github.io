@@ -65,15 +65,15 @@ interests:
   - Recommender Systems
   - Multimodality
   - Machine Learning
-  - Wearables 
+  - Wearables
 
 education:
-  - area: Ph.D. in Software Engineering
+  - area: D.Sc. in Software Engineering
     institution: LUT School of Engineering Sciences - Finland
     date_start: 2025-02-03
     summary: |
-      I am currently pursuing my PhD at LUT University, focusing on Contextual User Modeling and Affective Recommender Systems. Leveraging advancements in machine learning, computer vision, and human-computer interaction (HCI). 
-    button: 
+      I am currently pursuing my doctoral studies at LUT University, focusing on Contextual User Modeling and Affective Recommender Systems. Leveraging advancements in machine learning, computer vision, and human-computer interaction (HCI).
+    button:
       text: 'View profile on LUT'
       url: 'https://www.lut.fi/en/profiles/moamen-atia'
   - area: M.Sc. in Software Engineering
