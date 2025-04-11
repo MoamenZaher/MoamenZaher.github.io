@@ -36,9 +36,9 @@ profiles:
     url: 'mailto:moamen.zaher@lut.fi'
     label: E-mail Me on LUT
 
-  - icon: at-symbol
-    url: 'mailto:moamen.zaher@icloud.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:moamen.zaher@icloud.com'
+  #   label: E-mail Me
   - icon: at-symbol
     url: 'mailto:moibrahem@msa.edu.eg'
     label: E-mail Me on MSA Mail
