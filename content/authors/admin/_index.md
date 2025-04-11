@@ -75,7 +75,7 @@ interests:
 
 education:
   - area: D.Sc. in Software Engineering
-    institution: LUT School of Engineering Sciences - Finland
+    institution: School of Engineering Sciences, Lappeenranta-lahti University of Technology (LUT), Finland
     date_start: 2025-02-03
     summary: |
       I am currently pursuing my doctoral studies at LUT University, focusing on Contextual User Modeling and Affective Recommender Systems. Leveraging advancements in machine learning, computer vision, and human-computer interaction (HCI).
@@ -114,7 +114,7 @@ education:
 work:
 
   - position: Junior Researcher
-    company_name: LUT School of Engineering Sciences - Finland
+    company_name: School of Engineering Sciences, Lappeenranta-lahti University of Technology (LUT), Finland
     company_url: 'https://lut.fi/'
     # company_logo: ''
     date_start: '2025-02-03'
@@ -389,8 +389,6 @@ awards:
 
 ## About Me
 
-Moamen is a Junior Researcher and Doctoral Student at LUT University, Finland, pursuing a PhD in the field of Human-Computer Interaction (HCI) and Context-Aware Affective Recommender Systems. His interdisciplinary research lies at the intersection of affective computing, multimodal user modeling, and machine learning, with a particular focus on leveraging wearable sensing technologies such as EEG, vision-based systems, and environmental context for enhancing personalized and emotion-aware recommendations.
+Moamen is a Junior Researcher and doctoral student (Ph.D. candidate) at LUT University, Finland, specializing in Human-Computer Interaction, affective computing, and context-aware recommender systems. His research focuses on multimodal user modeling using wearables, including EEG and vision-based data, to enhance personalized and emotion-aware recommendations.
 
-He holds a Master of Science (M.Sc.) in Software Engineering from the Faculty of Computers and Artificial Intelligence (FCAI), Helwan University, Egypt. Moamen has published in both journals and international conferences, and is currently working on advancing multimodal fusion techniques and lightweight deep learning models for emotion recognition and recommendation on resource-constrained devices.
-
-Alongside his research, Moamen has co-supervised several undergraduate graduation projects, many of which resulted in peer-reviewed publications. He brings over four years of academic teaching and assistance experience, as well as more than three years of industry experience as a software engineer.
+He holds an M.Sc. in Software Engineering from FCAI, Helwan University, Egypt, and has published in both journals and conferences. Moamen also has over four years of academic experience and three years in the software industry, and has co-supervised multiple student projects that led to conference publications.
