@@ -47,6 +47,8 @@ profiles:
   #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/396/7962.html
   - icon: brands/github
     url: https://github.com/MoamenZaher/
   - icon: brands/linkedin
