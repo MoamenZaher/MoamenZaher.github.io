@@ -47,8 +47,6 @@ profiles:
   #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: academicons/dblp
-    url: https://dblp.org/pid/396/7962.html
   - icon: brands/github
     url: https://github.com/MoamenZaher/
   - icon: brands/linkedin
@@ -61,6 +59,10 @@ profiles:
     url: https://www.webofscience.com/wos/author/record/LFR-9911-2024
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=58283568600
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/396/7962.html
+  - icon: academicons/semantic-scholar
+    url: https://www.semanticscholar.org/author/Moamen-Zaher/2233499521
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Moamen-Zaher
   - icon: brands/instagram
