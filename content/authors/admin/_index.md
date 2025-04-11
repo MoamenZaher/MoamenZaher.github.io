@@ -20,16 +20,22 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer/Research Assistant 
+role: Junior Researcher 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: October University for Modern Sciences and Arts (MSA)
+  - name: Lappeenranta-lahti University of Technology (LUT), Finland
+    url: https://www.lut.fi/en
+  - name: October University for Modern Sciences and Arts (MSA), Egypt
     url: https://msa.edu.eg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: at-symbol
+    url: 'mailto:moamen.zaher@lut.fi'
+    label: E-mail Me on LUT
+
   - icon: at-symbol
     url: 'mailto:moamen.zaher@icloud.com'
     label: E-mail Me
@@ -383,5 +389,8 @@ awards:
 
 ## About Me
 
-Moamen holds a Masters of Science (M.Sc.) in Software Engineering awarded from the Faculty of Computers and Artificial Intelligence (FCAI), Helwan University - Egypt. His research interests include Human Computer Interaction, Machine Learning, and Computer Vision. He published few publications in both journals and conferences. Moreover, He co-supervised numerous graduation projects which led to several conference publications.
-Beside +4 years of academic experience, Moamen has +3 years of industry experience working as a software engineer.
+Moamen is a Junior Researcher and Doctoral Student at LUT University, Finland, pursuing a PhD in the field of Human-Computer Interaction (HCI) and Context-Aware Affective Recommender Systems. His interdisciplinary research lies at the intersection of affective computing, multimodal user modeling, and machine learning, with a particular focus on leveraging wearable sensing technologies such as EEG, vision-based systems, and environmental context for enhancing personalized and emotion-aware recommendations.
+
+He holds a Master of Science (M.Sc.) in Software Engineering from the Faculty of Computers and Artificial Intelligence (FCAI), Helwan University, Egypt. Moamen has published in both journals and international conferences, and is currently working on advancing multimodal fusion techniques and lightweight deep learning models for emotion recognition and recommendation on resource-constrained devices.
+
+Alongside his research, Moamen has co-supervised several undergraduate graduation projects, many of which resulted in peer-reviewed publications. He brings over four years of academic teaching and assistance experience, as well as more than three years of industry experience as a software engineer.
