@@ -91,7 +91,7 @@ education:
     date_start: 2020-11-05
     date_end: 2024-07-31
     summary: |
-      Thesis on "Using Human Activity Recongnition in Physical Rehabilitation Exercesis on real-time". Supervised by Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. The paper has resulted into several publication. Presented a paper at an IEEE conferences and three published journal publications one of them published at Journal of Multimedia Tools and Applications (MTAP) publushed by Springer, one published at Journal of Computers in Biology and Medicine (CiBM). Moreover, There're one more journal publications under review in reputable journals. 
+      Thesis on "Using Human Activity Recognition in Physical Rehabilitation Exercises on real-time". Supervised by Prof. Ayman Atia, Dr. Amr Ghoniem and Dr. Laila Abdelhamid. The paper has resulted into several publication. Presented a paper at an IEEE conferences and three published journal publications one of them published at Journal of Multimedia Tools and Applications (MTAP) publushed by Springer, one published at Journal of Computers in Biology and Medicine (CiBM). Moreover, There're one more journal publications under review in reputable journals. 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
