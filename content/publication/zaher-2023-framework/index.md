@@ -8,7 +8,6 @@ authors:
 - Ayman Atia
 date: '2023-07-15'
 publishDate: '2023-08-24T20:02:17.348511Z'
-featured: true
 publication_types:
 - paper-conference
 publication: '*2023 Intelligent Methods, Systems, and Applications (IMSA)*'
