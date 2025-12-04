@@ -1,5 +1,5 @@
 ---
-title: ChCamera-based and IMU Sensor Fusion in Phyiscal Therapy
+title: Camera-based and IMU Sensor Fusion in Phyiscal Therapy
 summary: This is an interdisciplinary project conducted in collaboration with the Faculty of Physical Therapy at October University for Modern Sciences and Arts (MSA).
 date: 2025-06-10
 type: blog
