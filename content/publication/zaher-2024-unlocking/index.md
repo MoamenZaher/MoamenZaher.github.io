@@ -35,7 +35,7 @@ image:
 
 ---
 #### Citations
-This is my top-cited paper with 9 citations.
+This is my top-cited paper with +30 citations.
 
 ##### *Cited by others*
 - Mengmeng Wang (2025). [Applications of deep learning techniques for predicting dynamic service location enhanced scheduling algorithm in foggy computing environment](https://doi.org/10.1016/j.aej.2024.12.092). [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)
